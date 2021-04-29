@@ -1,0 +1,188 @@
+{
+    "hats": [
+        {
+            "author": "PalmerDixon",
+            "bounce": true,
+            "climbresource": "megaphone_climb.png",
+            "condition": "None",
+            "name": "Megaphone",
+            "package": "Community Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "megaphone_bounce.png"
+        },
+        {
+            "author": "Ruolbu",
+            "climbresource": "cat_climb.png",
+            "condition": "None",
+            "name": "Cat",
+            "package": "Community Hats",
+            "reshasha": "03b099aa33fe35604fa8957135636014",
+            "reshashc": "5c470709b5eddc2903a76a3c37d189b2",
+            "resource": "cat.png"
+        },
+        {
+            "author": "Nemorosa22",
+            "bounce": true,
+            "climbresource": "shiba_climb.png",
+            "condition": "None",
+            "name": "Shiba",
+            "package": "Community Hats",
+            "reshasha": "b0167a2e11c848696262a78e8c855a60",
+            "reshashc": "fe8112518a2f570649e5b89a42a826d4",
+            "resource": "shiba_bounce.png"
+        },
+        {
+            "author": "Bavari",
+            "bounce": true,
+            "climbresource": "cook_climb.png",
+            "condition": "None",
+            "name": "Cook",
+            "package": "Community Hats",
+            "reshasha": "b2ea80426b1006925d7c3d2059aac60a",
+            "reshashc": "a326ae78a39c427b3bfdbfd88aa7843a",
+            "resource": "cook_bounce.png"
+        },
+        {
+            "author": "Bavari",
+            "bounce": true,
+            "climbresource": "donut_climb.png",
+            "condition": "None",
+            "name": "Donut",
+            "package": "Community Hats",
+            "reshasha": "24dc330758c4efe9045a95cb9be32920",
+            "reshashc": "03947286d0b2f8ed16e53cc94a2d8782",
+            "resource": "donut_bounce.png"
+        },
+        {
+            "author": "ZzzSleepy",
+            "backresource": "LongBrown_back.png",
+            "climbresource": "LongBrown_climb.png",
+            "condition": "None",
+            "name": "Long Brown",
+            "package": "Community Hats",
+            "reshasha": "eaca8662fa4e37cb55e5103104c92c0c",
+            "reshashb": "c4efdaa94da6aeae1c8bcbcdeedbae90",
+            "reshashc": "05639888a53101c6e5582db1db91218a",
+            "resource": "LongBrown.png"
+        },
+        {
+            "author": "AlexNabb",
+            "climbresource": "dj_climb.png",
+            "condition": "None",
+            "name": "DJ",
+            "package": "Community Hats",
+            "reshasha": "1f28d5f9c2785fd0a3d3426a1199bb43",
+            "reshashc": "303836ea1ff4ab61ae92f70812f789ff",
+            "resource": "dj.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Ruolbu",
+            "climbresource": "bulb_climb.png",
+            "condition": "None",
+            "name": "Bulb",
+            "package": "Community Hats",
+            "reshasha": "5084d8187e216ac0e3d68e9f1f028b94",
+            "reshashc": "153ca96e6793f9a2423de8eae23647a5",
+            "resource": "bulb_adaptive.png"
+        },
+        {
+            "author": "Ruolbu",
+            "backresource": "duck_back.png",
+            "bounce": true,
+            "climbresource": "duck_climb.png",
+            "condition": "None",
+            "name": "Duck",
+            "package": "Community Hats",
+            "reshasha": "733964a3836624915d30ffafbb4a53aa",
+            "reshashb": "73034db86b5023108013ef39b2930d58",
+            "reshashc": "d577ab114717f4b2877562f36f6ef8b7",
+            "resource": "duck_bounce.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Paradoxon",
+            "climbresource": "towel_climb.png",
+            "condition": "None",
+            "name": "Towel",
+            "package": "Community Hats",
+            "reshasha": "48e65b95a1aa33965c849df812373013",
+            "reshashc": "42bb0053a0309f049f6d905febb3eb5d",
+            "resource": "towel_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Kazutea",
+            "condition": "None",
+            "name": "Cat Ears",
+            "package": "Community Hats",
+            "reshasha": "cd4b972fe5e6e9eab26fe1f7e9cfe81f",
+            "resource": "catEars_adaptive.png"
+        },
+        {
+            "author": "Ruolbu",
+            "condition": "None",
+            "name": "Leaf",
+            "package": "Community Hats",
+            "reshasha": "f6b30c549469397510cde55bdab356b5",
+            "resource": "leaf.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "bounce": true,
+            "climbresource": "spartan_climb.png",
+            "condition": "None",
+            "name": "Spartan",
+            "package": "Community Hats",
+            "reshasha": "5377e4e01e64ce98a7be7e256e969606",
+            "reshashc": "9fb4c6c3ae0c7eab6970572e9cb240ee",
+            "resource": "spartan_bounce_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "condition": "None",
+            "name": "Fishbowl",
+            "package": "Community Hats",
+            "reshasha": "261f667dddb82acbb922ae0930131f85",
+            "resource": "fish_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Bavari",
+            "climbresource": "teletubby_climb.png",
+            "condition": "None",
+            "name": "Teletubby",
+            "package": "Community Hats",
+            "reshasha": "112b5b1bdb231e2cfebed549e040174b",
+            "reshashc": "8d749afe0d5aa27597de32913cd11111",
+            "resource": "teletubby_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Ruolbu",
+            "climbresource": "brain_climb.png",
+            "condition": "None",
+            "name": "Brain",
+            "package": "Community Hats",
+            "reshasha": "1e6a19e66968110705f1fe5c9be2c3d3",
+            "reshashc": "93275fadbf159ae3319cb42b1e458df2",
+            "resource": "brain_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Ruolbu",
+            "backresource": "mech_back.png",
+            "climbresource": "mech_climb.png",
+            "condition": "None",
+            "name": "Mech",
+            "package": "Community Hats",
+            "reshasha": "a8de23012e0d9e6804821894fa54688c",
+            "reshashb": "ae419915551abca4eae39bd219a4ef9f",
+            "reshashc": "1ab3db6adb8e811df77addcd3d16b0ca",
+            "resource": "mech_adaptive.png"
+        }
+    ]
+}
