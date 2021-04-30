@@ -114,10 +114,12 @@
         {
             "adaptive": true,
             "author": "Kazutea",
+            "climbresource": "catEars_climb.png",
             "condition": "None",
-            "name": "Cat Ears",
+            "name": "catEars",
             "package": "Community Hats",
             "reshasha": "cd4b972fe5e6e9eab26fe1f7e9cfe81f",
+            "reshashc": "ce0238c5606b25d42ab7852a2e74e2c4",
             "resource": "catEars_adaptive.png"
         },
         {
