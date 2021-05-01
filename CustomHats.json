@@ -174,6 +174,29 @@
             "resource": "brain_adaptive.png"
         },
         {
+            "author": "Niggo",
+            "backresource": "Little_Devil_back.png",
+            "climbresource": "Little_Devil_climb.png",
+            "condition": "None",
+            "name": "Little Devil",
+            "package": "Community Hats",
+            "reshasha": "dd982e72b0d8eea9813b3de5608b98a9",
+            "reshashb": "dc5db6d02434bd8dfcae981a6f399310",
+            "reshashc": "96b81d4d937d9e78f12a26217ee5f67c",
+            "resource": "Little_Devil.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Hoax",
+            "backresource": "Hoax_arms_adaptive_back.png",
+            "condition": "None",
+            "name": "Arms",
+            "package": "Community Hats",
+            "reshasha": "f073cd06862d50c057952868a9e4b366",
+            "reshashb": "af91adea15c6bb98c31b46d295327d8b",
+            "resource": "Hoax_arms_adaptive.png"
+        },
+        {
             "adaptive": true,
             "author": "Ruolbu",
             "backresource": "mech_back.png",
