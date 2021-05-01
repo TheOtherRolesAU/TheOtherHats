@@ -22,7 +22,7 @@
             "resource": "cat.png"
         },
         {
-            "author": "Nemorosa22",
+            "author": "Buntspecht",
             "bounce": true,
             "climbresource": "shiba_climb.png",
             "condition": "None",
@@ -208,6 +208,118 @@
             "reshashb": "ae419915551abca4eae39bd219a4ef9f",
             "reshashc": "1ab3db6adb8e811df77addcd3d16b0ca",
             "resource": "mech_adaptive.png"
+        },
+        {
+            "author": "Toni",
+            "climbresource": "shark_climb.png",
+            "condition": "None",
+            "name": "Shark",
+            "package": "Community Hats",
+            "reshasha": "5d085e08641c7ae845d469c805e763bc",
+            "reshashc": "6cf51389b23b62efdb232346770a4a38",
+            "resource": "shark.png"
+        },
+        {
+            "author": "K3ndo",
+            "backresource": "OldMan_back.png",
+            "climbresource": "OldMan_climb.png",
+            "condition": "None",
+            "name": "Old Man",
+            "package": "Community Hats",
+            "reshasha": "48f36309a1083a85b7f82f883e38fcf9",
+            "reshashb": "620555349afced767f02c0891326e8a8",
+            "reshashc": "442e9a763b667bcbf5f950171ef2fbd5",
+            "resource": "OldMan.png"
+        },
+        {
+            "author": "K3ndo",
+            "bounce": true,
+            "climbresource": "TrafficCone_climb.png",
+            "condition": "None",
+            "name": "Traffic Cone",
+            "package": "Community Hats",
+            "reshasha": "41b806c42ea18dcb802286664e2a2502",
+            "reshashc": "9bc00cd9ab9482995b5a7e8e2aefc415",
+            "resource": "TrafficCone_bounce.png"
+        },
+        {
+            "author": "Bavari",
+            "climbresource": "brainglass_climb.png",
+            "condition": "None",
+            "name": "Braini",
+            "package": "Community Hats",
+            "reshasha": "2f0951e3d388d11349192aa4305cf34d",
+            "reshashc": "5fd4389abc7450b909c5a19fe970aebf",
+            "resource": "brainglass.png"
+        },
+        {
+            "author": "K3ndo",
+            "bounce": true,
+            "climbresource": "Frog_climb.png",
+            "condition": "None",
+            "name": "Frog",
+            "package": "Community Hats",
+            "reshasha": "cb212918ca441b8a94a086612fa84337",
+            "reshashc": "5247e45852608d302b35013ca7a4440a",
+            "resource": "Frog_bounce.png"
+        },
+        {
+            "adaptive": true,
+            "author": "ZzzSleepy",
+            "condition": "None",
+            "name": "Phone",
+            "package": "Community Hats",
+            "reshasha": "bdc91ddedda0ecd83fc84f84e2486ca2",
+            "resource": "Phone_adaptive.png"
+        },
+        {
+            "author": "ZzzSleepy",
+            "backresource": "Boxer_back.png",
+            "condition": "None",
+            "name": "Boxing Gloves",
+            "package": "Community Hats",
+            "reshasha": "502ade0b36025526c609ede6e4e1bc9c",
+            "reshashb": "291286717b880b0ce2cf807508ada0a3",
+            "resource": "Boxer.png"
+        },
+        {
+            "author": "DonPads",
+            "climbresource": "dadhat_climb.png",
+            "condition": "None",
+            "name": "Dad Hat",
+            "package": "Community Hats",
+            "reshasha": "2e36da83cd1f1adaa7f8aaa41de2d57b",
+            "reshashc": "1518e1acec88a830d586b8908e64d98e",
+            "resource": "dadhat.png"
+        },
+        {
+            "adaptive": true,
+            "author": "ZzzSleepy",
+            "condition": "None",
+            "name": "Newspaper",
+            "package": "Community Hats",
+            "reshasha": "36a3d314de583ee6479f85f69bd3a51a",
+            "resource": "Newspaper_adaptive.png"
+        },
+        {
+            "author": "paprika007",
+            "climbresource": "VoKuHiLaOliBa_climb.png",
+            "condition": "None",
+            "name": "VoKuHiLa",
+            "package": "Community Hats",
+            "reshasha": "eeba0aec160313ad04df0b012d7d65d7",
+            "reshashc": "bcd95b869f8241d2adc809f9d10d545c",
+            "resource": "VoKuHiLaOliBa.png"
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "Panda_climb.png",
+            "condition": "None",
+            "name": "Panda", 
+            "package": "Community Hats",
+            "reshasha": "7ddfd162686561996431a74f9b377523",
+            "reshashc": "c4bb9d73fdacd3d6a428bfeba9e05a89",
+            "resource": "Panda.png"
         }
     ]
 }
