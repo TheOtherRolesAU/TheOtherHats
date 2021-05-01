@@ -1,7 +1,7 @@
 {
     "hats": [
         {
-            "author": "PalmerDixon",
+            "author": "Palmer",
             "bounce": true,
             "climbresource": "megaphone_climb.png",
             "condition": "None",
