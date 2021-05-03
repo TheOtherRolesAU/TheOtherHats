@@ -380,13 +380,24 @@
         },
         {
             "author": "Kazutea",
-            "climbresource": "darkCat_climb.png", 
+            "climbresource": "darkCat_climb.png",
             "condition": "None",
             "name": "Dark Cat Ears",
             "package": "Community Hats",
             "reshasha": "c74c7cace9d75d62f00f36bf7fef3e4d",
             "reshashc": "9ccc10eb11b8f6f9aa9e5217dd4b3cf5",
             "resource": "darkCat.png"
+        },
+        {
+            "adaptive": true,
+            "author": "flecken66",
+            "climbresource": "Dino5_adaptive_climb.png",
+            "condition": "None",
+            "name": "Dino", 
+            "package": "Community Hats",
+            "reshasha": "700721034a2a7e8e5e1e271c1a288f2b",
+            "reshashc": "b49b2996e1aae1281619d1b2b04d76c6",
+            "resource": "Dino5_adaptive.png"
         }
     ]
 }
