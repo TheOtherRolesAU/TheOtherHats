@@ -292,11 +292,101 @@
             "author": "K3ndo",
             "climbresource": "Panda_climb.png",
             "condition": "None",
-            "name": "Panda", 
+            "name": "Panda",
             "package": "Community Hats",
             "reshasha": "7ddfd162686561996431a74f9b377523",
             "reshashc": "c4bb9d73fdacd3d6a428bfeba9e05a89",
             "resource": "Panda.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Viking_climb.png",
+            "condition": "None",
+            "name": "Viking",
+            "package": "Community Hats",
+            "reshasha": "f02182a6f21aa7ce1fb05d0dfdd716e1",
+            "reshashc": "8960ae19b927e42ac93e15b2acd32e14",
+            "resource": "Viking_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Streamblox",
+            "climbresource": "snail_adaptive_climb.png",
+            "condition": "None",
+            "name": "Snail",
+            "package": "Community Hats",
+            "reshasha": "b6b83862ca81bbee9aa895ccbab75ce1",
+            "reshashc": "156158f8b08dfd74c90d7c3d313f18dc",
+            "resource": "snail_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Unkown",
+            "climbresource": "Knight_adaptive_climb.png",
+            "condition": "K3ndo",
+            "name": "Knight",
+            "package": "Community Hats",
+            "reshasha": "f6e9148872f41264de055f95a66c916a",
+            "reshashc": "57e9ff8a17365e2c3739ab02b3b319a7",
+            "resource": "Knight_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Drakoni",
+            "backresource": "trex_back.png",
+            "climbresource": "trex_climb.png",
+            "condition": "None",
+            "name": "T-Rex",
+            "package": "Community Hats",
+            "reshasha": "309b1ae8b0e1b32a6f6e422c8df64a6b",
+            "reshashb": "2f38a283a18bfbc483e1f372554e9d62",
+            "reshashc": "ad9f3ccb7ef15c6d1fc272746898a6f6",
+            "resource": "trex_adaptive.png"
+        },
+        {
+            "author": "Klaggo",
+            "climbresource": "lawyer_climb.png",
+            "condition": "None",
+            "name": "Lawyer",
+            "package": "Community Hats",
+            "reshasha": "e4eaabdc87ee4e98da50fd1406b4472f",
+            "reshashc": "73ca63dbab242b7f5ca34aa3b8ceb556",
+            "resource": "lawyer.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Trulla",
+            "bounce": true,
+            "climbresource": "sunhat_adaptive_climb.png",
+            "condition": "None",
+            "name": "Sunhat",
+            "package": "Community Hats",
+            "reshasha": "47cda0f8645f9fdfd76c6e04cce718fd",
+            "reshashc": "1235ab64277e39dff088013b2aca86d0",
+            "resource": "sunhat_adaptive_bounce.png"
+        },
+        {
+            "author": "Drakoni",
+            "backresource": "angelwings_back.png",
+            "climbresource": "angelwings_climb.png",
+            "condition": "None",
+            "name": "Angelwings",
+            "package": "Community Hats",
+            "reshasha": "5d1c071279246f7186b62b64e445d6eb",
+            "reshashb": "eea9fced10857fa0eb13ff549ebdef72",
+            "reshashc": "fa40a514b31b44506ea2f3d3f6f306a4",
+            "resource": "angelwings.png"
+        },
+        {
+            "author": "Kazutea",
+            "climbresource": "darkCat_climb.png", 
+            "condition": "None",
+            "name": "Dark Cat Ears",
+            "package": "Community Hats",
+            "reshasha": "c74c7cace9d75d62f00f36bf7fef3e4d",
+            "reshashc": "9ccc10eb11b8f6f9aa9e5217dd4b3cf5",
+            "resource": "darkCat.png"
         }
     ]
 }
