@@ -322,9 +322,9 @@
         },
         {
             "adaptive": true,
-            "author": "Unkown",
+            "author": "K3ndo",
             "climbresource": "Knight_adaptive_climb.png",
-            "condition": "K3ndo",
+            "condition": "None",
             "name": "Knight",
             "package": "Community Hats",
             "reshasha": "f6e9148872f41264de055f95a66c916a",
