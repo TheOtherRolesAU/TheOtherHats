@@ -301,13 +301,13 @@
         {
             "adaptive": true,
             "author": "K3ndo",
-            "climbresource": "Viking_climb.png",
+            "climbresource": "Barbarian_climb.png",
             "condition": "None",
-            "name": "Viking",
+            "name": "Barbarian",
             "package": "Community Hats",
             "reshasha": "f02182a6f21aa7ce1fb05d0dfdd716e1",
             "reshashc": "8960ae19b927e42ac93e15b2acd32e14",
-            "resource": "Viking_adaptive.png"
+            "resource": "Barbarian_adaptive.png"
         },
         {
             "adaptive": true,
