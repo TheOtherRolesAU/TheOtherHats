@@ -398,6 +398,53 @@
             "reshasha": "700721034a2a7e8e5e1e271c1a288f2b",
             "reshashc": "b49b2996e1aae1281619d1b2b04d76c6",
             "resource": "Dino5_adaptive.png"
+        },
+        {
+            "author": "TheFeS",
+            "bounce": true,
+            "climbresource": "bandana_climb.png",
+            "condition": "None",
+            "name": "Dhalucard",
+            "package": "Developer Hats",
+            "reshasha": "65af7cd9271c8a5f49d16b042cf62e56",
+            "reshashc": "197a5edf7695f66af0cb1b13c25f02a7",
+            "resource": "bandana_bounce.png"
+        },
+        {
+            "author": "TheFeS",
+            "backresource": "dragon_back.png",
+            "bounce": true,
+            "climbresource": "dragon_climb.png",
+            "condition": "None",
+            "name": "Thunderstorm",
+            "package": "Developer Hats",
+            "reshasha": "41e5936ee4a6d2a500926d35c3134ac0",
+            "reshashb": "1ed113844e9b454f9e717e2b2eb6caf5",
+            "reshashc": "ce8a488fe9aa819e62b09675e877c041",
+            "resource": "dragon_bounce.png"
+        },
+        {
+            "author": "TheFeS",
+            "backresource": "eisbison_back.png",
+            "climbresource": "eisbison_climb.png",
+            "condition": "None",
+            "name": "Eisbison",
+            "package": "Community Hats",
+            "reshasha": "910305fe0a19ff959bea886f17ae3014",
+            "reshashb": "374cdc81991feb9d45da2a919e068119",
+            "reshashc": "6b1e7c38ab48a50e8efa2f85731e81a3",
+            "resource": "eisbison.png"
+        },
+        {
+            "author": "TheFeS",
+            "bounce": true,
+            "climbresource": "eof_climb.png",
+            "condition": "None",
+            "name": "EndOfFile",
+            "package": "Developer Hats",
+            "reshasha": "d59b992091b4c1b0cc3bc2eab8864fbe",
+            "reshashc": "ef095b53db3f99c12c20ee05e3954c3b",
+            "resource": "eof_bounce.png"
         }
     ]
 }
