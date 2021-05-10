@@ -623,7 +623,7 @@
             "resource": "tutu.png"
         },
         {
-            "author": "Drakoni", 
+            "author": "Drakoni",
             "climbresource": "comfysloth_climb.png",
             "condition": "None",
             "name": "comfysloth",
@@ -631,6 +631,29 @@
             "reshasha": "1e72f507e439728b9c095e1690bb86ab",
             "reshashc": "4d8a9e9ed16f516de120579d99c34b3c",
             "resource": "comfysloth.png"
+        },
+        {
+            "author": "Drakoni",
+            "bounce": true,
+            "climbresource": "bucket_climb.png",
+            "condition": "None",
+            "name": "bucket",
+            "package": "Community Hats",
+            "reshasha": "02d096bd0fc36a15a151bc8f20694030",
+            "reshashc": "29eba249ab26b11f519b3b90327945ea",
+            "resource": "bucket_bounce.png"
+        },
+        {
+            "author": "Drakoni",
+            "backresource": "firemage_back.png",
+            "climbresource": "firemage_climb.png",
+            "condition": "None",
+            "name": "firemage",
+            "package": "Community Hats",
+            "reshasha": "e1869e881019d5549e20fbab01b3bfff",
+            "reshashb": "a81ca8b58a16d6eee3cc972667ffc536",
+            "reshashc": "66b1bc47432245dbef59b22a21993a1a",
+            "resource": "firemage.png"
         }
     ]
 }
