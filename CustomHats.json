@@ -547,17 +547,6 @@
             "resource": "Fisherman_adaptive.png"
         },
         {
-            "adaptive": true,
-            "author": "Trulla",
-            "climbresource": "hoodie_adaptive_climb.png",
-            "condition": "None",
-            "name": "Hoodie",
-            "package": "Community Hats",
-            "reshasha": "d0c66db8c65e65c6c0facdfdea1305c0",
-            "reshashc": "c9443259298d4d222607d5d137ab2244",
-            "resource": "hoodie_adaptive.png"
-        },
-        {
             "author": "Lelelara",
             "backresource": "horns_back.png",
             "climbresource": "horns_climb.png",
@@ -654,6 +643,67 @@
             "reshashb": "a81ca8b58a16d6eee3cc972667ffc536",
             "reshashc": "66b1bc47432245dbef59b22a21993a1a",
             "resource": "firemage.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "bounce": true,
+            "climbresource": "Ghost_adaptive_climb.png",
+            "condition": "None",
+            "name": "Little Ghost",
+            "package": "Community Hats",
+            "reshasha": "311730ba5a2df25922563b66bb68dfa3",
+            "reshashc": "9be94b18926ca223e35854f8c17e08ce",
+            "resource": "Ghost_adaptive_bounce.png"
+        },
+        {
+            "author": "Пиф",
+            "backresource": "AngelN_back.png",
+            "bounce": true,
+            "climbresource": "AngelN_climb.png",
+            "condition": "None",
+            "name": "Angel + Wings",
+            "package": "Community Hats",
+            "reshasha": "74572f18dd1990b0f9c2b562eea6a4bb",
+            "reshashb": "d4d0d3773bb4ae70b27a93e09b7d9d9b",
+            "reshashc": "e8a3394cdb805983faba33ab9e39700d",
+            "resource": "AngelN_bounce.png"
+        },
+        {
+            "author": "toni",
+            "bounce": true,
+            "climbresource": "octopus_climb.png",
+            "condition": "None",
+            "name": "octopus",
+            "package": "Community Hats",
+            "reshasha": "045be3874bf57dad9951ef944c14d284",
+            "reshashc": "55f16102787163548392c113939f1d39",
+            "resource": "octopus_bounce.png"
+        },
+        {
+            "author": "Trulla",
+            "backresource": "city-watch_back.png",
+            "climbresource": "city-watch_climb.png",
+            "condition": "None",
+            "name": "City Watch",
+            "package": "Community Hats",
+            "reshasha": "ba5a938c09e07d3c9caa1c7d1c89fa16",
+            "reshashb": "5e5880caaa3bff42b40555a5e3dc0a2b",
+            "reshashc": "60dd645c1aeac1893fcea67856e2a6d4",
+            "resource": "city-watch.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Trulla",
+            "backresource": "hoodie_adaptive_back.png",
+            "climbresource": "hoodie_adaptive_climb.png",
+            "condition": "None",
+            "name": "hoodie",
+            "package": "Community Hats",
+            "reshasha": "6f68be7c2ae52821652464f99f99a5f8",
+            "reshashb": "45f3b1439e51814dc92cf56d8f43c40c",
+            "reshashc": "c9443259298d4d222607d5d137ab2244",
+            "resource": "hoodie_adaptive.png"
         }
     ]
 }
