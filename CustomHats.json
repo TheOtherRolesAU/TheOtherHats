@@ -704,6 +704,52 @@
             "reshashb": "45f3b1439e51814dc92cf56d8f43c40c",
             "reshashc": "c9443259298d4d222607d5d137ab2244",
             "resource": "hoodie_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "ycy",
+            "backresource": "hairband_back.png",
+            "climbresource": "hairband_adaptive_climb.png",
+            "condition": "None",
+            "name": "Hairband",
+            "package": "Community Hats",
+            "reshasha": "504c7d254c37a9d74f802fd8a14108c8",
+            "reshashb": "5512a5c3d15252688ce886817f4ffd0a",
+            "reshashc": "5370ae50611429bb35e6d3ca5918a3d7",
+            "resource": "hairband_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "stitchk",
+            "climbresource": "newhoodie_climb.png",
+            "condition": "None",
+            "name": "Hoodie 2",
+            "package": "Community Hats",
+            "reshasha": "98e0c2e8853ea35a2357a36c3d8819f4",
+            "reshashc": "af75bc1f7e32774fbf3e365aaaf26d4e",
+            "resource": "newhoodie_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Пиф",
+            "climbresource": "love_adaptive_climb.png",
+            "condition": "None",
+            "name": "Feeling Cute",
+            "package": "Community Hats",
+            "reshasha": "8bfa32625eea5304528a0e5fc26e34fc",
+            "reshashc": "51256aa3daa8e867f75ce2f18eb276d6",
+            "resource": "love_adaptive.png"
+        },
+        {
+            "author": "Noui", 
+            "bounce": true,
+            "climbresource": "LM-Ghost_climb.png",
+            "condition": "None",
+            "name": "Little Ghost",
+            "package": "Community Hats",
+            "reshasha": "4acd8f9086759f98315672f5a4cdd32f",
+            "reshashc": "abeefdf3e3b170e48d29cd620b3efd4c",
+            "resource": "LM-Ghost_bounce.png"
         }
     ]
 }
