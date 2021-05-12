@@ -741,11 +741,11 @@
             "resource": "love_adaptive.png"
         },
         {
-            "author": "Noui", 
+            "author": "Noui",
             "bounce": true,
             "climbresource": "LM-Ghost_climb.png",
             "condition": "None",
-            "name": "Little Ghost",
+            "name": "Ghosty",
             "package": "Community Hats",
             "reshasha": "4acd8f9086759f98315672f5a4cdd32f",
             "reshashc": "abeefdf3e3b170e48d29cd620b3efd4c",
