@@ -26,6 +26,11 @@ The name of the texture needs to follow the pattern hatname_climb.png.
 This texture will be rendered behind the player.
 The name of the texture needs to follow the pattern hatname_back.png.
 
+### Flipped texture (optional):
+This texture will be rendered instead of the Main texture, when facing the left.
+The name of the texture needs to follow the pattern hatname_flip.png.
+
+
 ### Template:
 Feel free to download our template for Illustrator, Photoshop and PNG. It should help you to place your hat correctly. Note: Climbing assets can be a bit tricky since the crewmate moves from left to right while climbing. [(Links on our Discord)](https://discord.com/channels/818086884089659412/838414132776140800/838423406654914572)
 
