@@ -886,16 +886,6 @@
             "resource": "afro_bounce.png"
         },
         {
-            "author": "Drakoni",
-            "climbresource": "beard_thick_climb.png",
-            "condition": "None",
-            "name": "Beard",
-            "package": "Community Hats",
-            "reshasha": "6238c87e50f9246590097291a6ba816d",
-            "reshashc": "199aa32ada2bd8b7d93cf3a5b55fb750",
-            "resource": "beard_viking.png"
-        },
-        {
             "author": "Simoms",
             "climbresource": "TheOtherCat_climb.png",
             "condition": "None",
@@ -914,14 +904,44 @@
             "climbresource": "towel2_climb.png",
             "condition": "None",
             "flipresource": "towel2_flip.png",
-            "name": "Towel 2", 
+            "name": "Towel 2",
             "package": "Community Hats",
-            "reshasha": "49baa6ef0876e043906cc8fd09a20de2",
+            "reshasha": "29542c50148e0a999ae8dd98e719ba17",
             "reshashb": "fc5fb650d3827ae97d69d1feed0fc78b",
-            "reshashbf": "773f55e5c09d71c8c79537e9ce953a26",
-            "reshashc": "5754ebe4edc5361e410a096dda8e7a3f",
+            "reshashbf": "69c3949bf4e7972763d8ccf603706216",
+            "reshashc": "73f3e223974f4d089a4bbdcdae7b11c8",
             "reshashf": "fc5fb650d3827ae97d69d1feed0fc78b",
             "resource": "towel2_bounce_adaptive.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "beardviking_climb.png",
+            "condition": "None",
+            "name": "Viking Beard",
+            "package": "Community Hats",
+            "reshasha": "6238c87e50f9246590097291a6ba816d",
+            "reshashc": "d9fbd8145d9ec8be82e1171bac7a6dae",
+            "resource": "beardviking.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "Mental_climb.png",
+            "condition": "None",
+            "name": "Mental",
+            "package": "Community Hats",
+            "reshasha": "c3f1be887dea6a3b790bf2734e2bfb63",
+            "reshashc": "bb2446398350288d7c41468aa211863c",
+            "resource": "Mental.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "beardthick_climb.png",
+            "condition": "None",
+            "name": "Thick Beard",
+            "package": "Community Hats",
+            "reshasha": "631c44f676dc05e2d65d02576853ca40",
+            "reshashc": "199aa32ada2bd8b7d93cf3a5b55fb750",
+            "resource": "beardthick.png"
         }
     ]
 }
