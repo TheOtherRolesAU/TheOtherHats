@@ -967,19 +967,6 @@
             "resource": "Turtle_bounce.png"
         },
         {
-            "adaptive": true,
-            "author": "stitchk",
-            "backresource": "shark_back.png",
-            "climbresource": "shark_climb.png",
-            "condition": "None",
-            "name": "Shark",
-            "package": "Community Hats",
-            "reshasha": "c873821e647521b7aa1cbb15f2c814b8",
-            "reshashb": "7b8fba2654979bee9ae7de6029e9c68f",
-            "reshashc": "576f8dbe05859ac13833de4b91e9100d",
-            "resource": "shark_adaptive.png"
-        },
-        {
             "author": "Drakoni",
             "backresource": "Nephias_back.png",
             "climbresource": "Nephias_climb.png",
@@ -1181,6 +1168,33 @@
             "reshashc": "b75a172bb39f285be6d8f508c19968df",
             "reshashf": "a228eb0185d5bbe57174a7c161e37b87",
             "resource": "jellyfish_adaptive.png"
+        },
+        {
+            "author": "Drakoni",
+            "backresource": "2Vampire_back.png",
+            "climbresource": "2Vampire_climb.png",
+            "condition": "None",
+            "flipresource": "2Vampire_flip.png",
+            "name": "Better Vampire",
+            "package": "Community Hats",
+            "reshasha": "a75c818be45572a6173cb1b672d57a28",
+            "reshashb": "ed01fee65186f7e7e057b743a27c4273",
+            "reshashc": "e9fd674c893d5bc05186d56695187024",
+            "reshashf": "2e01c1121d01c7671a16208e6cf390c8",
+            "resource": "2Vampire.png"
+        },
+        {
+            "adaptive": true,
+            "author": "stitchk",
+            "backresource": "2shark_back.png",
+            "climbresource": "2shark_climb.png",
+            "condition": "None",
+            "name": "Shark 2", 
+            "package": "Community Hats",
+            "reshasha": "c873821e647521b7aa1cbb15f2c814b8",
+            "reshashb": "7b8fba2654979bee9ae7de6029e9c68f",
+            "reshashc": "576f8dbe05859ac13833de4b91e9100d",
+            "resource": "2shark_adaptive.png"
         }
     ]
 }
