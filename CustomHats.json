@@ -1053,20 +1053,6 @@
             "resource": "bubblebath.png"
         },
         {
-            "author": "Drakoni",
-            "backresource": "Vampire_back.png",
-            "climbresource": "Vampire_climb.png",
-            "condition": "None",
-            "flipresource": "Vampire_flip.png",
-            "name": "Vampire",
-            "package": "Community Hats",
-            "reshasha": "a75c818be45572a6173cb1b672d57a28",
-            "reshashb": "ed01fee65186f7e7e057b743a27c4273",
-            "reshashc": "e9fd674c893d5bc05186d56695187024",
-            "reshashf": "2e01c1121d01c7671a16208e6cf390c8",
-            "resource": "Vampire.png"
-        },
-        {
             "author": "Germi",
             "backresource": "French_back_bounce.png",
             "bounce": true,
