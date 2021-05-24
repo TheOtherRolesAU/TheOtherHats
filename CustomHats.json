@@ -720,17 +720,6 @@
         },
         {
             "adaptive": true,
-            "author": "stitchk",
-            "climbresource": "newhoodie_climb.png",
-            "condition": "None",
-            "name": "Hoodie 2",
-            "package": "Community Hats",
-            "reshasha": "98e0c2e8853ea35a2357a36c3d8819f4",
-            "reshashc": "af75bc1f7e32774fbf3e365aaaf26d4e",
-            "resource": "newhoodie_adaptive.png"
-        },
-        {
-            "adaptive": true,
             "author": "Пиф",
             "climbresource": "love_adaptive_climb.png",
             "condition": "None",
@@ -1195,6 +1184,45 @@
             "reshasha": "8fe29f73013c7e2cd39769bb28b37031",
             "reshashc": "a454b733f1cd5d999de5905b5ffce945",
             "resource": "Irrelephant_adaptive.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "Bavari_climb.png",
+            "condition": "None",
+            "flipresource": "Bavari_flip.png",
+            "name": "Bavari",
+            "package": "Developer Hats", 
+            "reshasha": "254bb544fda1c7f97e33678f2d1dace1",
+            "reshashc": "b6d8502562df15b1a6240db8ad46864c",
+            "reshashf": "de7f71f8dc736eb8aa2a1af91095f578",
+            "resource": "Bavari.png"
+        },
+        {
+            "author": "Drakoni",
+            "backresource": "Vlesk_back.png",
+            "climbresource": "Vlesk_climb.png",
+            "condition": "None",
+            "flipresource": "Vlesk_flip.png",
+            "name": "Vlesk",
+            "package": "Community Hats",
+            "reshasha": "1b90a037f2d6d3c8f6c3e1e4b2355925",
+            "reshashb": "2116fcc3d54bb172be09063e8e8d13be",
+            "reshashc": "169691cc72a77161820f753c3f093bce",
+            "reshashf": "f38044b39968f0a78a4ecf813209500f",
+            "resource": "Vlesk.png"
+        },
+        {
+            "adaptive": true,
+            "author": "stitchk",
+            "backresource": "hoodie2_back.png",
+            "climbresource": "hoodie2_climb.png",
+            "condition": "None",
+            "name": "Hoodie 2",
+            "package": "Community Hats",
+            "reshasha": "f6e2ee4fd7d7bdee4c0bfc65c1288093",
+            "reshashb": "104fd18d53b647672229c72072f28bad",
+            "reshashc": "af75bc1f7e32774fbf3e365aaaf26d4e",
+            "resource": "hoodie2_adaptive.png"
         }
     ]
 }
