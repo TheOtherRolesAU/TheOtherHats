@@ -1191,7 +1191,7 @@
             "condition": "None",
             "flipresource": "Bavari_flip.png",
             "name": "Bavari",
-            "package": "Developer Hats", 
+            "package": "Developer Hats",
             "reshasha": "254bb544fda1c7f97e33678f2d1dace1",
             "reshashc": "b6d8502562df15b1a6240db8ad46864c",
             "reshashf": "de7f71f8dc736eb8aa2a1af91095f578",
@@ -1223,6 +1223,18 @@
             "reshashb": "104fd18d53b647672229c72072f28bad",
             "reshashc": "af75bc1f7e32774fbf3e365aaaf26d4e",
             "resource": "hoodie2_adaptive.png"
+        },
+        {
+            "author": "Bavari",
+            "backresource": "unge_back.png",
+            "climbresource": "unge_climb.png",
+            "condition": "None",
+            "name": "Unge",
+            "package": "Community Hats",
+            "reshasha": "0650e4462e339f94d635895b06954ccc",
+            "reshashb": "0b2fd2086c80c72971b6e613506531fd",
+            "reshashc": "8b831b4fd428d5004f7dd872a51da852",
+            "resource": "unge.png"
         }
     ]
 }
