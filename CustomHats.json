@@ -1354,6 +1354,52 @@
             "reshashb": "5a0492998f92670c55de7f10b4038965",
             "reshashc": "9e8008e71cac86418ee02518a2f46b38",
             "resource": "2horns.png"
+        },{
+            "author": "Trulla",
+            "backresource": "shower_back.png",
+            "climbresource": "shower_climb.png",
+            "condition": "None",
+            "name": "shower",
+            "package": "Community Hats",
+            "reshasha": "6882aa61b01a4b65548f2048e85ce03e",
+            "reshashb": "21b7124b58df98feaa929efcd5108ecc",
+            "reshashc": "96cedcbfd7b2b9f84b6d68c23c6462fe",
+            "resource": "shower.png"
+        },
+        {
+            "author": "Drakoni",
+            "backresource": "Baso_back.png",
+            "climbresource": "Baso_climb.png",
+            "condition": "None",
+            "flipresource": "Baso_flip.png",
+            "name": "Baso",
+            "package": "Community Hats",
+            "reshasha": "7201007a10d70dcdcf0d4585657a6b9c",
+            "reshashb": "8fcc6fdd420d27b7a62e548ddf7f542e",
+            "reshashc": "88205d053bab6f5865d667e0b1c62bb5",
+            "reshashf": "a642193a10a106c8ac0bb0f2cc11b772",
+            "resource": "Baso.png"
+        },
+        {
+            "author": "Drakoni",
+            "bounce": true,
+            "climbresource": "Hahn_climb.png",
+            "condition": "None",
+            "name": "Hahn",
+            "package": "Community Hats",
+            "reshasha": "02c78c2a0ff534a8097599326d1a22b0",
+            "reshashc": "10c7fa7004f89ce8b4977a43100d8dc6",
+            "resource": "Hahn_bounce.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "Medusa_climb.png",
+            "condition": "None",
+            "name": "Medusa",
+            "package": "Community Hats",
+            "reshasha": "f7dad373fa18d4df9127b595da328263",
+            "reshashc": "3c93a91f6fefbfbfb2c53da8bff4a3a6",
+            "resource": "Medusa.png"
         }
     ]
 }
