@@ -1270,17 +1270,6 @@
             "resource": "jetpack_adaptive.png"
         },
         {
-            "adaptive": true,
-            "author": "k3ndo",
-            "climbresource": "Tree_climb.png",
-            "condition": "None",
-            "name": "Tree",
-            "package": "Community Hats",
-            "reshasha": "9f3afd3d8b9341febe3861dd237de25f",
-            "reshashc": "dede70a4c2fa56ddf0e321e18fc0b6ba",
-            "resource": "Tree_adaptive.png"
-        },
-        {
             "author": "k3ndo",
             "backresource": "Bee_back.png",
             "climbresource": "Bee_climb.png",
@@ -1400,6 +1389,17 @@
             "reshasha": "f7dad373fa18d4df9127b595da328263",
             "reshashc": "3c93a91f6fefbfbfb2c53da8bff4a3a6",
             "resource": "Medusa.png"
+        },
+        {
+            "adaptive": true,
+            "author": "k3ndo",
+            "climbresource": "Broccoltree_climb.png",
+            "condition": "None",
+            "name": "Broccoltree",
+            "package": "Community Hats",
+            "reshasha": "9f3afd3d8b9341febe3861dd237de25f",
+            "reshashc": "dede70a4c2fa56ddf0e321e18fc0b6ba",
+            "resource": "Broccoltree_adaptive.png"
         }
     ]
 }
