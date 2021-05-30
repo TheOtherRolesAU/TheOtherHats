@@ -1400,6 +1400,16 @@
             "reshasha": "9f3afd3d8b9341febe3861dd237de25f",
             "reshashc": "dede70a4c2fa56ddf0e321e18fc0b6ba",
             "resource": "Broccoltree_adaptive.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "Tinfoil_climb.png",
+            "condition": "None",
+            "name": "Tinfoil",
+            "package": "Community Hats",
+            "reshasha": "e5bd8f497f8c833e722de46f4ea43493",
+            "reshashc": "61f15afba3a860aa8b8b4ca8d3165276",
+            "resource": "Tinfoil.png"
         }
     ]
 }
