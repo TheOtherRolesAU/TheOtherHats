@@ -1410,6 +1410,76 @@
             "reshasha": "e5bd8f497f8c833e722de46f4ea43493",
             "reshashc": "61f15afba3a860aa8b8b4ca8d3165276",
             "resource": "Tinfoil.png"
+        },
+        {
+            "author": "Trulla",
+            "climbresource": "TOR-felt-hat_climb.png",
+            "condition": "None",
+            "name": "Felt Hat",
+            "package": "Community Hats",
+            "reshasha": "b957a65f6da73734e6c71e05e19f7ccf",
+            "reshashc": "e219cad796132d74ebc15dcc86c7d9b9",
+            "resource": "TOR-felt-hat.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lanelore",
+            "backresource": "spider_back.png",
+            "climbresource": "spider_climb.png",
+            "condition": "None",
+            "name": "Spider",
+            "package": "Community Hats",
+            "reshasha": "e632b31569d45ba4922a1035da43c468",
+            "reshashb": "05fbc8a73c257328f17ef46c184940b1",
+            "reshashc": "a0054d1f40160d149ec21010e31b39c2",
+            "resource": "spider_adaptive.png"
+        },
+        {
+            "author": "Palmer",
+            "backresource": "camera_back_bounce.png",
+            "bounce": true,
+            "climbresource": "camera_climb.png",
+            "condition": "None",
+            "name": "camera",
+            "package": "Community Hats",
+            "reshasha": "8ae5474a6c02f9d45c11d7d562dceaa5",
+            "reshashb": "90e58dc1a30b054ccfae91c194a39323",
+            "reshashc": "f995834072bbe4df2d42275e89f285d7",
+            "resource": "camera_bounce.png"
+        },
+        {
+            "author": "Palmer",
+            "condition": "None",
+            "flipresource": "pockets_flip.png",
+            "name": "pockets",
+            "package": "Community Hats",
+            "reshasha": "25deced9b493c788e095201cedf14392",
+            "reshashf": "3d265082826cedcf61c384ce7f6f673d",
+            "resource": "pockets.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Dino2_back.png",
+            "climbresource": "Dino2_adaptive_climb.png",
+            "condition": "None",
+            "name": "Dino2",
+            "package": "Community Hats",
+            "reshasha": "cd9933451ca3b482ebfd8cb42143bbfb",
+            "reshashb": "05c1966fa2c9db07dd8151fe68553652",
+            "reshashc": "fd6588f12506f96f883aaf7dc3424f64",
+            "resource": "Dino2_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lanelore",
+            "climbresource": "flutter_climb.png",
+            "condition": "None",
+            "name": "flutter",
+            "package": "Community Hats",
+            "reshasha": "16479b5052c9037327f7962d90c57b21",
+            "reshashc": "bf4da3cc5b78bda741726a722b90dd62",
+            "resource": "flutter_adaptive.png"
         }
     ]
 }
