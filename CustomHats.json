@@ -1480,6 +1480,87 @@
             "reshasha": "16479b5052c9037327f7962d90c57b21",
             "reshashc": "bf4da3cc5b78bda741726a722b90dd62",
             "resource": "flutter_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Drakoni",
+            "backresource": "owl_back.png",
+            "climbresource": "owl_climb.png",
+            "condition": "None",
+            "name": "owl",
+            "package": "Community Hats",
+            "reshasha": "41bf5f033f257fe578468946abc861b5",
+            "reshashb": "9fad0065c423c1bace2ef47fa1261a70",
+            "reshashc": "53504651442369343c8ff9c30e2a89d5",
+            "resource": "owl_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lanelore",
+            "backresource": "cobra_back.png",
+            "climbresource": "cobra_climb.png",
+            "condition": "None",
+            "name": "cobra",
+            "package": "Community Hats",
+            "reshasha": "21669a0f1373be572cecd26192bf9f2a",
+            "reshashb": "62b3ffe2c18b9bca9cdb9551806d390d",
+            "reshashc": "ea2c97789daf2d048494c143826111e1",
+            "resource": "cobra_adaptive.png"
+        },
+        {
+            "author": "Lanelore",
+            "climbresource": "cherryblossom_climb.png",
+            "condition": "None",
+            "name": "cherryblossom",
+            "package": "Community Hats",
+            "reshasha": "a756a1f836d701af3bdb076f4f90f6d6",
+            "reshashc": "f9f68f529725e8f0e023b1706dc24111",
+            "resource": "cherryblossom.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Drakoni",
+            "climbresource": "Drakoni_climb.png",
+            "condition": "None",
+            "name": "Drakoni",
+            "package": "Community Hats",
+            "reshasha": "611559f307bae69030e61f113303f20c",
+            "reshashc": "88b0e95a2b8132dc7f0b2b182bf09221",
+            "resource": "Drakoni_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lanelore",
+            "backresource": "dog_back.png",
+            "climbresource": "dog_climb.png",
+            "condition": "None",
+            "name": "dog",
+            "package": "Community Hats",
+            "reshasha": "38d74e0ef112078f7d63d1acd4274246",
+            "reshashb": "05e9c3eafa984f794be76b406489034f",
+            "reshashc": "0769a75de6010fc1a56e914e617ee1e3",
+            "resource": "dog_adaptive.png"
+        },
+        {
+            "author": "Trulla",
+            "behind": true,
+            "climbresource": "pride_climb.png",
+            "condition": "None",
+            "name": "pride",
+            "package": "Community Hats",
+            "reshasha": "c4566c8dcd3d0a07ce8904a5832f4273",
+            "reshashc": "757b416bccde086b6a2b27271beb6178",
+            "resource": "pride_behind.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "VarionCap_climb.png",
+            "condition": "None",
+            "name": "VarionCap",
+            "package": "Community Hats",
+            "reshasha": "cb8eb614195425f95db22c2e38165816",
+            "reshashc": "b66a3cb8e65f4a86a2ec285a67ff5a32",
+            "resource": "VarionCap.png"
         }
     ]
 }
