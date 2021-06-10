@@ -1561,6 +1561,72 @@
             "reshasha": "cb8eb614195425f95db22c2e38165816",
             "reshashc": "b66a3cb8e65f4a86a2ec285a67ff5a32",
             "resource": "VarionCap.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lanelore",
+            "climbresource": "hula_climb.png",
+            "condition": "None",
+            "name": "hula",
+            "package": "Community Hats",
+            "reshasha": "c6f7c748e98b68df41d70d513522bc49",
+            "reshashc": "ad4e9e8b0029e94eeee50cb71174589f",
+            "resource": "hula_adaptive.png"
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "Paarzival_climb.png",
+            "condition": "None",
+            "name": "Paarzival",
+            "package": "Community Hats",
+            "reshasha": "043c5eae298b18611dad305e4e629eeb",
+            "reshashc": "1f1180e5f47e2ae0236582bc441e785c",
+            "resource": "Paarzival.png"
+        },
+        {
+            "author": "K3ndo",
+            "backresource": "Pharaoh_back.png",
+            "climbresource": "Pharaoh_climb.png",
+            "condition": "None",
+            "name": "Pharaoh",
+            "package": "Community Hats",
+            "reshasha": "051e4bdf2294d02580b5c05f4bf5bd22",
+            "reshashb": "a3bd9218e0a959674b6efccdef55f56b",
+            "reshashc": "b54e76168fb038feba8995fdfdb77dd2",
+            "resource": "Pharaoh.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Trulla",
+            "climbresource": "curlers_climb.png",
+            "condition": "None",
+            "name": "curlers",
+            "package": "Community Hats",
+            "reshasha": "a914cc489e6bd23751774a35d23dfe7a",
+            "reshashc": "b8f60ea9744ab413bafd4f05402f2381",
+            "resource": "curlers_adaptive.png"
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "Pirate_climb.png",
+            "condition": "None",
+            "name": "Pirate",
+            "package": "Community Hats",
+            "reshasha": "0bc228745db73da6d33ad0b625884ba8",
+            "reshashc": "33d07cd8ffda68ded6a61332fff6469c",
+            "resource": "Pirate.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "Otter_climb.png",
+            "condition": "None",
+            "flipresource": "Otter_flip.png",
+            "name": "Otter",
+            "package": "Community Hats",
+            "reshasha": "e88583d8a969b36a4099876fd0a74361",
+            "reshashc": "6b316354eae3edc8e2fe035a938ce4b8",
+            "reshashf": "20a66ed59f8c2e736af57e5d3290132d",
+            "resource": "Otter.png"
         }
     ]
 }
