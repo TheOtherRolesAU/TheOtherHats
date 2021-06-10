@@ -1627,6 +1627,17 @@
             "reshashc": "6b316354eae3edc8e2fe035a938ce4b8",
             "reshashf": "20a66ed59f8c2e736af57e5d3290132d",
             "resource": "Otter.png"
+        },
+        {
+            "author": "bavari",
+            "behind": true,
+            "climbresource": "regenbogenglas_climb.png",
+            "condition": "None",
+            "name": "Regenbogenglas",
+            "package": "Community Hats",
+            "reshasha": "c88c313b701be3f044767ebcfd1b0157",
+            "reshashc": "09e37c6ea969884ca41d8b880fe49ca9",
+            "resource": "regenbogenglas_behind.png"
         }
     ]
 }
