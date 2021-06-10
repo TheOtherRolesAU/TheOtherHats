@@ -1630,14 +1630,15 @@
         },
         {
             "author": "bavari",
-            "behind": true,
+            "backresource": "regenbogenglas_back.png",
             "climbresource": "regenbogenglas_climb.png",
             "condition": "None",
             "name": "Regenbogenglas",
             "package": "Community Hats",
-            "reshasha": "c88c313b701be3f044767ebcfd1b0157",
+            "reshasha": "dd3f1f5f7ae1ed90c2832c2309594aa1",
+            "reshashb": "c88c313b701be3f044767ebcfd1b0157",
             "reshashc": "09e37c6ea969884ca41d8b880fe49ca9",
-            "resource": "regenbogenglas_behind.png"
+            "resource": "regenbogenglas.png"
         }
     ]
 }
