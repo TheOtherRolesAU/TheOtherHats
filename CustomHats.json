@@ -1607,16 +1607,6 @@
             "resource": "curlers_adaptive.png"
         },
         {
-            "author": "K3ndo",
-            "climbresource": "Pirate_climb.png",
-            "condition": "None",
-            "name": "Pirate",
-            "package": "Community Hats",
-            "reshasha": "0bc228745db73da6d33ad0b625884ba8",
-            "reshashc": "33d07cd8ffda68ded6a61332fff6469c",
-            "resource": "Pirate.png"
-        },
-        {
             "author": "Drakoni",
             "climbresource": "Otter_climb.png",
             "condition": "None",
@@ -1639,6 +1629,16 @@
             "reshashb": "c88c313b701be3f044767ebcfd1b0157",
             "reshashc": "09e37c6ea969884ca41d8b880fe49ca9",
             "resource": "regenbogenglas.png"
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "Pirate1_climb.png",
+            "condition": "None",
+            "name": "Pirate 2",
+            "package": "Community Hats",
+            "reshasha": "0bc228745db73da6d33ad0b625884ba8",
+            "reshashc": "33d07cd8ffda68ded6a61332fff6469c",
+            "resource": "Pirate1.png"
         }
     ]
 }
