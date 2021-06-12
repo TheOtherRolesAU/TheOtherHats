@@ -1663,6 +1663,52 @@
             "reshasha": "0bff53ebd20be05f69e4a50b0abb4803",
             "reshashc": "2c9c57530c13475418115578bf66d5e5",
             "resource": "skull_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Drakoni",
+            "climbresource": "karuzo_climb.png",
+            "condition": "None",
+            "flipresource": "karuzo_flip.png",
+            "name": "karuzo",
+            "package": "Community Hats",
+            "reshasha": "d71d1de5d101439845546c3599315afc",
+            "reshashc": "8af00662fa0c1f5a8e5acf88f382b51b",
+            "reshashf": "654da0f1804e5db730680cc68d7f23b5",
+            "resource": "karuzo_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Drakoni",
+            "backflipresource": "Lumenti_back_flip.png",
+            "backresource": "Lumenti_back.png",
+            "climbresource": "Lumenti_climb.png",
+            "condition": "None",
+            "flipresource": "Lumenti_flip.png",
+            "name": "Lumenti",
+            "package": "Community Hats",
+            "reshasha": "bf1518089bf164dcb4fdd11c334fcf30",
+            "reshashb": "e5c27a1cbe284f771a9bc6e62f00a23d",
+            "reshashbf": "75dd757079805a458298d1af3a5f366b",
+            "reshashc": "a753fee616b732963d74993781ae9ea4",
+            "reshashf": "c2f8afe2a77e7d7591c6fa2bbf93c0e5",
+            "resource": "Lumenti_adaptive.png"
+        },
+        {
+            "author": "Drakoni",
+            "backflipresource": "JenNyan_back_flip.png",
+            "backresource": "JenNyan_back.png",
+            "climbresource": "JenNyan_climb.png",
+            "condition": "None",
+            "flipresource": "JenNyan_flip.png",
+            "name": "JenNyan",
+            "package": "Community Hats",
+            "reshasha": "da4e2106cb2e524444e70f41ba3bc602",
+            "reshashb": "c4a6889f6c93a37897d8fe2d0a40e987",
+            "reshashbf": "80815253bbabce1bd4f2065dc875b6bb",
+            "reshashc": "14b0ff30d7e1bb20207b639e33015443",
+            "reshashf": "fae76ca8094be2891a1ce5d0a33bbcca",
+            "resource": "JenNyan.png"
         }
     ]
 }
