@@ -1482,15 +1482,6 @@
         {
             "adaptive": true,
             "author": "K3ndo",
-            "condition": "None",
-            "name": "Fish",
-            "package": "Community Hats",
-            "reshasha": "2cfa0cad0d0029f9d80eb93460bbff06",
-            "resource": "Fish_adaptive.png"
-        },
-        {
-            "adaptive": true,
-            "author": "K3ndo",
             "climbresource": "Firefighter_adaptive_climb.png",
             "condition": "None",
             "name": "Firefighter",
@@ -1585,16 +1576,6 @@
             "reshasha": "89be09d7b0257ad40987e938d239f2c7",
             "reshashc": "d5da2e3b26cb6087ff5ed1e5a1473224",
             "resource": "Broccoltree_adaptive.png"
-        },
-        {
-            "author": "K3ndo",
-            "climbresource": "Pirate2_climb.png",
-            "condition": "None",
-            "name": "Pirate 2",
-            "package": "Community Hats",
-            "reshasha": "71e8290763e71686fa553d72509d7b71",
-            "reshashc": "823851fa991a0fe0e720ff74f39adf37",
-            "resource": "Pirate2.png"
         },
         {
             "adaptive": true,
@@ -1754,6 +1735,25 @@
             "reshasha": "d2d3194e734b42938bf954b806f27e7b",
             "reshashc": "54679f5e8e4357972d478e3774987bd4",
             "resource": "EndofFiles_adaptive.png"
-        }
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "Pirate2_climb.png",
+            "condition": "None",
+            "name": "Pirate 2",
+            "package": "Community Hats",
+            "reshasha": "71e8290763e71686fa553d72509d7b71",
+            "reshashc": "823851fa991a0fe0e720ff74f39adf37",
+            "resource": "Pirate2.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "condition": "None",
+            "name": "fish",
+            "package": "Community Hats",
+            "reshasha": "2cfa0cad0d0029f9d80eb93460bbff06",
+            "resource": "fish_adaptive.png"
+        }        
     ]
 }
