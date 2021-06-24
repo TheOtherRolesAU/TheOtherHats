@@ -389,7 +389,7 @@
             "resource": "Fisherman_adaptive.png"
         },
         {
-            "author": "\u00d0\u0178\u00d0\u00b8\u00d1\u201e",
+            "author": "\u041f\u0438\u0444", 
             "climbresource": "roseflower_climb.png",
             "condition": "None",
             "name": "Roseflowers",
@@ -453,7 +453,7 @@
             "resource": "firemage.png"
         },
         {
-            "author": "\u00d0\u0178\u00d0\u00b8\u00d1\u201e",
+            "author": "\u041f\u0438\u0444",
             "backresource": "AngelN_back.png",
             "bounce": true,
             "climbresource": "AngelN_climb.png",
@@ -480,7 +480,7 @@
         },
         {
             "adaptive": true,
-            "author": "\u00d0\u0178\u00d0\u00b8\u00d1\u201e",
+            "author": "\u041f\u0438\u0444",
             "climbresource": "love_adaptive_climb.png",
             "condition": "None",
             "name": "Feeling Cute",
