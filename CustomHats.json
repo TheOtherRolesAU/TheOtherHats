@@ -107,7 +107,7 @@
             "condition": "None",
             "name": "Cat Ears",
             "package": "Community Hats",
-            "reshasha": "cd4b972fe5e6e9eab26fe1f7e9cfe81f",
+            "reshasha": "c676b0dc7fb07d2b27313b553955bc40",
             "reshashc": "ce0238c5606b25d42ab7852a2e74e2c4",
             "resource": "catEars_adaptive.png"
         },
@@ -389,7 +389,7 @@
             "resource": "Fisherman_adaptive.png"
         },
         {
-            "author": "Пиф",
+            "author": "\u00d0\u0178\u00d0\u00b8\u00d1\u201e",
             "climbresource": "roseflower_climb.png",
             "condition": "None",
             "name": "Roseflowers",
@@ -453,7 +453,7 @@
             "resource": "firemage.png"
         },
         {
-            "author": "Пиф",
+            "author": "\u00d0\u0178\u00d0\u00b8\u00d1\u201e",
             "backresource": "AngelN_back.png",
             "bounce": true,
             "climbresource": "AngelN_climb.png",
@@ -480,7 +480,7 @@
         },
         {
             "adaptive": true,
-            "author": "Пиф",
+            "author": "\u00d0\u0178\u00d0\u00b8\u00d1\u201e",
             "climbresource": "love_adaptive_climb.png",
             "condition": "None",
             "name": "Feeling Cute",
@@ -1010,7 +1010,8 @@
             "reshashb": "5a0492998f92670c55de7f10b4038965",
             "reshashc": "9e8008e71cac86418ee02518a2f46b38",
             "resource": "2horns.png"
-        },{
+        },
+        {
             "author": "Trulla",
             "backresource": "shower_back.png",
             "climbresource": "shower_climb.png",
@@ -1491,10 +1492,10 @@
             "name": "Towel 42",
             "package": "Community Hats",
             "reshasha": "72b593ecab44919d0ce0aaba9f76c3c9",
-            "reshashb": "fc5fb650d3827ae97d69d1feed0fc78b",
+            "reshashb": "8e31b8b47c618ed73e5b31011d1de037",
             "reshashbf": "7dabb3c97b5b9f7cd3dfe62b4edfe865",
             "reshashc": "6021550fe7297f7d5368ba83cf22de76",
-            "reshashf": "fc5fb650d3827ae97d69d1feed0fc78b",
+            "reshashf": "8e31b8b47c618ed73e5b31011d1de037",
             "resource": "towel2_bounce_adaptive.png"
         },
         {
