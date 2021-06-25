@@ -389,7 +389,7 @@
             "resource": "Fisherman_adaptive.png"
         },
         {
-            "author": "\u041f\u0438\u0444", 
+            "author": "\u041f\u0438\u0444",
             "climbresource": "roseflower_climb.png",
             "condition": "None",
             "name": "Roseflowers",
