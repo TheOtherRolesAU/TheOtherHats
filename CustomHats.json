@@ -1072,19 +1072,6 @@
             "resource": "pockets.png"
         },
         {
-            "adaptive": true,
-            "author": "Drakoni",
-            "backresource": "owl_back.png",
-            "climbresource": "owl_climb.png",
-            "condition": "None",
-            "name": "owl",
-            "package": "Community Hats",
-            "reshasha": "41bf5f033f257fe578468946abc861b5",
-            "reshashb": "9fad0065c423c1bace2ef47fa1261a70",
-            "reshashc": "53504651442369343c8ff9c30e2a89d5",
-            "resource": "owl_adaptive.png"
-        },
-        {
             "author": "Lanelore",
             "climbresource": "cherryblossom_climb.png",
             "condition": "None",
@@ -1093,17 +1080,6 @@
             "reshasha": "a756a1f836d701af3bdb076f4f90f6d6",
             "reshashc": "f9f68f529725e8f0e023b1706dc24111",
             "resource": "cherryblossom.png"
-        },
-        {
-            "adaptive": true,
-            "author": "Drakoni",
-            "climbresource": "Drakoni_climb.png",
-            "condition": "None",
-            "name": "Drakoni",
-            "package": "Community Hats",
-            "reshasha": "611559f307bae69030e61f113303f20c",
-            "reshashc": "88b0e95a2b8132dc7f0b2b182bf09221",
-            "resource": "Drakoni_adaptive.png"
         },
         {
             "author": "Drakoni",
@@ -1828,6 +1804,51 @@
             "reshasha": "3808b08eb3425e2d107b62ed271eccd4",
             "reshashc": "d0dba649960154af491a75cd94cd286a",
             "resource": "octopus_bounce.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Drakoni",
+            "climbresource": "Drakoni_climb.png",
+            "condition": "None",
+            "name": "Drakoni",
+            "package": "Community Hats",
+            "reshasha": "e5efac21f6b928ea73e85cdc87be9c02",
+            "reshashc": "34227e2f42f176347a77fdb7fd5e5c7f",
+            "resource": "Drakoni_adaptive.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "Nest_climb.png",
+            "condition": "None",
+            "name": "Nest",
+            "package": "Community Hats",
+            "reshasha": "c709ecd201af1e6a60fceefb72d885b7",
+            "reshashc": "6ff2e4c799c0a008dc6a9fd6c890433f",
+            "resource": "Nest.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "O2_adaptive_climb.png",
+            "condition": "None",
+            "name": "O2",
+            "package": "Community Hats",
+            "reshasha": "7f967c992f6623ff1867f34f99a9b8f7",
+            "reshashc": "635add962bcc3965e3902c4eb9d242fd",
+            "resource": "O2_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Drakoni",
+            "backresource": "owl_back.png",
+            "climbresource": "owl_climb.png",
+            "condition": "None",
+            "name": "owl",
+            "package": "Community Hats",
+            "reshasha": "13b36648e4b4a434cb924ca25ac57342",
+            "reshashb": "ada68f1208c43a4270c459428d903a71",
+            "reshashc": "af21e63213ee5937dd9a2b4388e8d708",
+            "resource": "owl_adaptive.png"
         }
     ]
 }
