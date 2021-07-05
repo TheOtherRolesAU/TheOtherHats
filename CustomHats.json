@@ -1849,6 +1849,107 @@
             "reshashb": "ada68f1208c43a4270c459428d903a71",
             "reshashc": "af21e63213ee5937dd9a2b4388e8d708",
             "resource": "owl_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Keilwig",
+            "backresource": "monsterhair_back.png",
+            "climbresource": "monsterhair_climb.png",
+            "condition": "None",
+            "name": "Monsterhair",
+            "package": "Community Hats",
+            "reshasha": "de32567f7e8d81c54d2c0eb908b136f9",
+            "reshashb": "193c196c5d9a2267abe4a12984ed9962",
+            "reshashc": "841f73a6573d832f1d3e1f6145669e23",
+            "resource": "monsterhair_adaptive.png"
+        },
+        {
+            "author": "Drakoni",
+            "backresource": "SmashLunatic_back.png",
+            "climbresource": "SmashLunatic_climb.png",
+            "condition": "None",
+            "name": "SmashLunatic",
+            "package": "Community Hats",
+            "reshasha": "6544fe6fa6a6ffffec571361a65f02e3",
+            "reshashb": "112e4e6ed380f6cdd71faf88d0ec2d68",
+            "reshashc": "289a47d870174081e1f15b233d8b1a86",
+            "resource": "SmashLunatic.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Laocon",
+            "climbresource": "Cow_adaptive_climb.png",
+            "condition": "None",
+            "name": "Cow",
+            "package": "Community Hats",
+            "reshasha": "093a053377f40f361d69cb3ce06da55b",
+            "reshashc": "197eab3790e57a56c22013e0f8677e1f",
+            "resource": "Cow_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Helmet_adaptive_back.png",
+            "climbresource": "Helmet_adaptive_climb.png",
+            "condition": "None",
+            "name": "Helmet",
+            "package": "Community Hats",
+            "reshasha": "e042a6c0b1c28786c06bb90592373191",
+            "reshashb": "51a63fe5d72ccd940b346d9bd34daf66",
+            "reshashc": "661e9d542fe13d4fb877db4a7f8fe0dd",
+            "resource": "Helmet_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Drakoni",
+            "climbresource": "GlitchedNPC_climb.png",
+            "condition": "None",
+            "flipresource": "GlitchedNPC_flip.png",
+            "name": "GlitchedNPC",
+            "package": "Community Hats",
+            "reshasha": "3bde3588e0b8ae2429e31eaa74fa25fd",
+            "reshashc": "fe6f40e50d4919a022f811f60f1f9826",
+            "reshashf": "5ddcd36a916a10680551947677287dc4",
+            "resource": "GlitchedNPC_adaptive.png"
+        },
+        {
+            "author": "Laocon",
+            "backresource": "Jeanshead_back.png",
+            "climbresource": "Jeanshead_climb.png",
+            "condition": "None",
+            "name": "Jeanshead",
+            "package": "Community Hats",
+            "reshasha": "274a4418e2b79c74c4e7a1861b3ff376",
+            "reshashb": "e2a16df20340d26443b1862e68b3f161",
+            "reshashc": "d335d90cbfaa6099902249bbadfc699b",
+            "resource": "Jeanshead.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lanelore",
+            "backresource": "bull_back.png",
+            "climbresource": "bull_climb.png",
+            "condition": "None",
+            "name": "Bull",
+            "package": "Community Hats",
+            "reshasha": "f9ba11eb6e94e104eeeb89764af94dd7",
+            "reshashb": "5b8038cf36e7c5b353b5198562279b9b",
+            "reshashc": "ab1e3158ce89207e6259ff12da892d1a",
+            "resource": "bull_adaptive.png"
+        },
+        {
+            "author": "Drakoni",
+            "backresource": "Robin_back.png",
+            "climbresource": "Robin_climb.png",
+            "condition": "None",
+            "flipresource": "Robin_flip.png",
+            "name": "Robin",
+            "package": "Community Hats",
+            "reshasha": "ed0a90633bcfa9f4e8156a2b5b758be1",
+            "reshashb": "f1aaed023f6fe74c0ea9e96fec3a4a49",
+            "reshashc": "2a4cc4d028ad6f4dcefcd8dcbf7f6e05",
+            "reshashf": "b5071f5bc73700862bc1bcb4d2c62e2e",
+            "resource": "Robin.png"
         }
     ]
 }
