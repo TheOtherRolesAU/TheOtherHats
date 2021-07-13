@@ -1950,6 +1950,77 @@
             "reshashc": "2a4cc4d028ad6f4dcefcd8dcbf7f6e05",
             "reshashf": "b5071f5bc73700862bc1bcb4d2c62e2e",
             "resource": "Robin.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Darkoni",
+            "climbresource": "Papo_climb.png",
+            "condition": "None",
+            "name": "Papo",
+            "package": "Community Hats",
+            "reshasha": "03eea2400e0a440a871f2b46bdd71edc",
+            "reshashc": "81b1de60d0814c7402783c3948cf762c",
+            "resource": "Papo_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Drakoni",
+            "climbresource": "chameleon_climb.png",
+            "condition": "None",
+            "flipresource": "chameleon_flip.png",
+            "name": "chameleon",
+            "package": "Community Hats",
+            "reshasha": "429833d5aebf3143e387959a46237ee3",
+            "reshashc": "4d30cb331c60c4af7d013e76938b7312",
+            "reshashf": "d27c8f811dbec2c72eda23cd1384c82f",
+            "resource": "chameleon_adaptive.png"
+        },
+        {
+            "author": "Bavari",
+            "backresource": "shorty_back.png",
+            "climbresource": "shorty_climb.png",
+            "condition": "None",
+            "name": "Shorty",
+            "package": "Community Hats",
+            "reshasha": "068ad1c23c4edebbacbb9508f6d5b908",
+            "reshashb": "3d3040f1e5d3117f5d511e7ad89f53b2",
+            "reshashc": "636a2e76853a608fc5b004d7a2f58273",
+            "resource": "shorty.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "Graenz_climb.png",
+            "condition": "None",
+            "flipresource": "Graenz_flip.png",
+            "name": "Graenz",
+            "package": "Community Hats",
+            "reshasha": "f52689e4c928884c8bd328b75b026672",
+            "reshashc": "77b1ac1dbd91310c333d4a4be6b76205",
+            "reshashf": "33cdff6979a96c3f5f738eb55a52be3d",
+            "resource": "Graenz.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "cake_climb.png",
+            "condition": "None",
+            "name": "cake",
+            "package": "Community Hats",
+            "reshasha": "9970b70fb6df97b778fdb3543bd8d52f",
+            "reshashc": "37c41c9cd35706738e553dbb6d7568a6",
+            "resource": "cake.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Yoshilias",
+            "backresource": "beaver_back_adaptive.png",
+            "climbresource": "beaver_climb_adaptive.png",
+            "condition": "None",
+            "name": "beaver",
+            "package": "Community Hats",
+            "reshasha": "bff96c968cabba8818cae7c7c5cd66ec",
+            "reshashb": "931bb7cefa6c0bfc5dd6676664f71c7c",
+            "reshashc": "70a6749485c95e1d51498bcd41937eb9",
+            "resource": "beaver_adaptive.png"
         }
     ]
 }
