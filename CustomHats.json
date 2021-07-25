@@ -2021,6 +2021,77 @@
             "reshashb": "931bb7cefa6c0bfc5dd6676664f71c7c",
             "reshashc": "70a6749485c95e1d51498bcd41937eb9",
             "resource": "beaver_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lanelore",
+            "backresource": "Rockstar_back.png",
+            "climbresource": "Rockstar_climb.png",
+            "condition": "None",
+            "name": "Rockstar",
+            "package": "Community Hats",
+            "reshasha": "5576f3d2b7bd8a5375ca7fab433bb30d",
+            "reshashb": "85cf6f4c658e9e7c02b69ff0914ea590",
+            "reshashc": "ad8566e5ec0505f6d60098463cf60f9f",
+            "resource": "Rockstar_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Avlona",
+            "backresource": "Kangaroo_back_adaptive.png",
+            "climbresource": "Kangaroo_climb_adaptive.png",
+            "condition": "None",
+            "name": "Kangaroo",
+            "package": "Community Hats",
+            "reshasha": "2d4f8e45b875f6e31255d2da417ebb75",
+            "reshashb": "37c77fc7ca0c124202affb70135db3d7",
+            "reshashc": "e6b5a64efd4ae159c033bb729208c0f7",
+            "resource": "Kangaroo_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Lion_adaptive_back.png",
+            "climbresource": "Lion_adaptive_climb.png",
+            "condition": "None",
+            "name": "Lion",
+            "package": "Community Hats",
+            "reshasha": "c06ba7b40137af825a034aaab51c9f10",
+            "reshashb": "3d0b310757ea56ceb6baeaa8ef898fd0",
+            "reshashc": "9391c36d60ce351eebfa5e1cbbd41da2",
+            "resource": "Lion_adaptive.png"
+        },
+        {
+            "author": "Yoshilias",
+            "climbresource": "Egg_climb.png",
+            "condition": "None",
+            "name": "Egg",
+            "package": "Community Hats",
+            "reshasha": "b24b8f911115e04466318b69b783c890",
+            "reshashc": "32ca020ccc3da31233ddfe6af718209d",
+            "resource": "Egg.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lanelore",
+            "climbresource": "Popstar_climb.png",
+            "condition": "None",
+            "name": "Popstar",
+            "package": "Community Hats",
+            "reshasha": "d0f9927cc63e05765d4758e3dbb82bb9",
+            "reshashc": "b51c38c411cde2580bc262169bc76304",
+            "resource": "Popstar_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lanelore",
+            "climbresource": "Cream_climb.png",
+            "condition": "None",
+            "name": "Cream",
+            "package": "Community Hats",
+            "reshasha": "a38e9b2fd6dd711dde2fef7b894adbd0",
+            "reshashc": "5433d77f8ec38e43c5b3fadf217f099a",
+            "resource": "Cream_adaptive.png"
         }
     ]
 }
