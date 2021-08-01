@@ -2092,6 +2092,71 @@
             "reshasha": "a38e9b2fd6dd711dde2fef7b894adbd0",
             "reshashc": "5433d77f8ec38e43c5b3fadf217f099a",
             "resource": "Cream_adaptive.png"
+        },
+        {
+            "author": "Listoric",
+            "bounce": true,
+            "climbresource": "tiggerlove_climb.png",
+            "condition": "None",
+            "name": "Tiggerlove",
+            "package": "Community Hats",
+            "reshasha": "7eff319b3375083bfe75cb9f06abb0c4",
+            "reshashc": "415a1ae56510687d33786de7dbd84c04",
+            "resource": "tiggerlove_bounce.png"
+        },
+        {
+            "author": "Listoric",
+            "backflipresource": "SuperLisDog_back_flip.png",
+            "backresource": "SuperLisDog_back.png",
+            "climbresource": "SuperLisDog_climb.png",
+            "condition": "None",
+            "flipresource": "SuperLisDog_flip.png",
+            "name": "SuperLisDog",
+            "package": "Community Hats",
+            "reshasha": "d969f99d6b23669ab9b5d41971c30cd3",
+            "reshashb": "d6e08f69854a56b334e132da27709c66",
+            "reshashbf": "63fb2be3c56401422e33347e99318995",
+            "reshashc": "f2cef25da294047c72057d14c95dad06",
+            "reshashf": "845139f3e3c8dc1043233be79bafa322",
+            "resource": "SuperLisDog.png"
+        },
+        {
+            "author": "Yoshilias",
+            "backresource": "Baroque_back.png",
+            "climbresource": "Baroque_climb.png",
+            "condition": "None",
+            "name": "Baroque",
+            "package": "Community Hats",
+            "reshasha": "cbae551742baccc8196198cf088fa9d9",
+            "reshashb": "01faa29ed5b7c4aed03ba1968fe24ea8",
+            "reshashc": "3a4999a99fb44f7fb12a0a36d3051f03",
+            "resource": "Baroque.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Avlona",
+            "backresource": "elf_back_adaptive.png",
+            "climbresource": "elf_climb_adaptive.png",
+            "condition": "None",
+            "flipresource": "elf_adaptive_flip.png",
+            "name": "Elf",
+            "package": "Community Hats",
+            "reshasha": "2fd1ceb2c2bb41ae0f0a4ba36b600873",
+            "reshashb": "47be369e58a59dd298c0ea87585f061c",
+            "reshashc": "0e4f57e14c4da8fdca4bf3d0914ba863",
+            "reshashf": "28aaa694f4b31c56aab075005de02537",
+            "resource": "elf_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Listoric",
+            "climbresource": "berry_climb_adaptive.png",
+            "condition": "None",
+            "name": "Berry",
+            "package": "Community Hats",
+            "reshasha": "4d8e2dbdf9905feb558570ca4782465b",
+            "reshashc": "7e3517a5348a3db2d1510ba98217f037",
+            "resource": "berry_adaptive.png"
         }
     ]
 }
