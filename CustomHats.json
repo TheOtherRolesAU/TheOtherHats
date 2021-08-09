@@ -2157,6 +2157,65 @@
             "reshasha": "4d8e2dbdf9905feb558570ca4782465b",
             "reshashc": "7e3517a5348a3db2d1510ba98217f037",
             "resource": "berry_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Parrot_adaptive_back.png",
+            "climbresource": "Parrot_adaptive_climb.png",
+            "condition": "None",
+            "name": "Parrot",
+            "package": "Community Hats",
+            "reshasha": "6ef3af931f75f05661eefe694be596fc",
+            "reshashb": "63e3705f2ace933c62d0bdf90f4db8cd",
+            "reshashc": "abd6974cafbf24215ac1630501de5d84",
+            "resource": "Parrot_adaptive.png"
+        },
+        {
+            "author": "Listoric",
+            "climbresource": "bloodymary_climb.png",
+            "condition": "None",
+            "flipresource": "bloodymary_flip.png",
+            "name": "bloodymary",
+            "package": "Community Hats",
+            "reshasha": "8efc67503a45c7380fbb637eccd7db3a",
+            "reshashc": "de99c044307e92071186ac5ab5dfd706",
+            "reshashf": "c29d63ca712763cbe545306098f6995f",
+            "resource": "bloodymary.png"
+        },
+        {
+            "author": "Lanelore",
+            "climbresource": "Sushi_climb.png",
+            "condition": "None",
+            "name": "Sushi",
+            "package": "Community Hats",
+            "reshasha": "d43392579325ba5076d0cd878506556f",
+            "reshashc": "693a53edce5337b96ca04b8086668ce8",
+            "resource": "Sushi.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lanelore",
+            "climbresource": "Banana_climb.png",
+            "condition": "None",
+            "name": "Banana",
+            "package": "Community Hats",
+            "reshasha": "34401da5992ebe42bf35394a2aa00fcb",
+            "reshashc": "ff264fb0ad819407e9c0d77fcc6a10b5",
+            "resource": "Banana_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "K3ndo_Balloon_back.png",
+            "climbresource": "K3ndo_Balloon_adaptive_climb.png",
+            "condition": "None",
+            "name": "Ballooonnn",
+            "package": "Community Hats",
+            "reshasha": "6de50aa3f5801c51b9956d34c90c8aec",
+            "reshashb": "1a599613d7f78b60314d7237ec74baeb",
+            "reshashc": "fe59635bc6c93cf0bece87fc8bd05e2e",
+            "resource": "K3ndo_Balloon_adaptive.png"
         }
     ]
 }
