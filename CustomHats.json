@@ -2355,6 +2355,89 @@
             "reshasha": "baffdbb4632d4b8c6cf5167097045535",
             "reshashc": "1848f2fbc7a44a1caae1a5d3f3cad140",
             "resource": "lollipop_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Detective_back.png",
+            "climbresource": "Detective_adaptive_climb.png",
+            "condition": "None",
+            "name": "Detective",
+            "package": "Community Hats",
+            "reshasha": "db66026b7ce68569e2d521d2aec44b71",
+            "reshashb": "4b8a2b1f200167a6a2f3479b55a8d4c1",
+            "reshashc": "f2bf6cd14a4c984d537e1dc87eb83ef9",
+            "resource": "Detective_adaptive.png"
+        },
+        {
+            "author": "K3ndo",
+            "bounce": true,
+            "climbresource": "Eagle_climb.png",
+            "condition": "None",
+            "name": "Eagle",
+            "package": "Community Hats",
+            "reshasha": "4a48fed071cc842074df8a07324d3aac",
+            "reshashc": "fb7d3f512d75fa056a3ef7a2e8307291",
+            "resource": "Eagle_bounce.png"
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "Mummy_climb.png",
+            "condition": "None",
+            "name": "Mummy",
+            "package": "Community Hats",
+            "reshasha": "31ecc491c65f1837e56d70053b3b9b2e",
+            "reshashc": "e9c67d8b5c1ea52386904142861cfe8e",
+            "resource": "Mummy.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "VampireHunter_climb.png",
+            "condition": "None",
+            "name": "VampireHunter",
+            "package": "Community Hats",
+            "reshasha": "a6ded2a07645e24614886b8df4b5066d",
+            "reshashc": "5f06148efe14d399b8e36aa1a98a95f7",
+            "resource": "VampireHunter.png"
+        },
+        {
+            "author": "K3ndo",
+            "backflipresource": "Goodevil_back_flip.png",
+            "backresource": "Goodevil_back.png",
+            "climbresource": "Goodevil_climb.png",
+            "condition": "None",
+            "flipresource": "Goodevil_flip.png",
+            "name": "Goodevil",
+            "package": "Community Hats",
+            "reshasha": "28fdc7ad0b722a3e2e6288dfc8c3b701",
+            "reshashb": "3d1c48c77de5a47adb468cdd629fa59a",
+            "reshashbf": "e1b55d09f0b129af03ca84f93cf83be0",
+            "reshashc": "f779a7844519e3e3b6725980d901cb75",
+            "reshashf": "be7c444d04284b7b80a8dfb19fcda21b",
+            "resource": "Goodevil.png"
+        },
+        {
+            "author": "K3ndo",
+            "backresource": "Cardboard_back.png",
+            "climbresource": "Cardboard_climb.png",
+            "condition": "None",
+            "name": "Cardboard",
+            "package": "Community Hats",
+            "reshasha": "3c92b3d73736ac2c512aa68694d9e3e0",
+            "reshashb": "b0ae37a393a9fddcbf0e66a6122fa394",
+            "reshashc": "50b639930bdb5b76289b06bc769980a6",
+            "resource": "Cardboard.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Racing_adaptive_climb.png",
+            "condition": "None",
+            "name": "Racing",
+            "package": "Community Hats",
+            "reshasha": "d8884e9a6eee595f2ffecea9987e3b5e",
+            "reshashc": "e996e76acf1969132e6cfa41f265b3f3",
+            "resource": "Racing_adaptive.png"
         }
     ]
 }
