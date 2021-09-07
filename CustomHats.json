@@ -2438,6 +2438,18 @@
             "reshasha": "d8884e9a6eee595f2ffecea9987e3b5e",
             "reshashc": "e996e76acf1969132e6cfa41f265b3f3",
             "resource": "Racing_adaptive.png"
+        },
+        {
+            "author": "K3ndo",
+            "backresource": "Armor_back.png",
+            "climbresource": "Armor_climb.png",
+            "condition": "None",
+            "name": "Armor",
+            "package": "Community Hats",
+            "reshasha": "a6db17070caed0756ef83db978e93e76",
+            "reshashb": "38af60a347c9b91c65ddeb0556f022e8", 
+            "reshashc": "9aa7d373b4c48e3cdd86c9ae4415b170",
+            "resource": "Armor.png"
         }
     ]
 }
