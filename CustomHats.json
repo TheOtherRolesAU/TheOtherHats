@@ -2447,9 +2447,95 @@
             "name": "Armor",
             "package": "Community Hats",
             "reshasha": "a6db17070caed0756ef83db978e93e76",
-            "reshashb": "38af60a347c9b91c65ddeb0556f022e8", 
+            "reshashb": "38af60a347c9b91c65ddeb0556f022e8",
             "reshashc": "9aa7d373b4c48e3cdd86c9ae4415b170",
             "resource": "Armor.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "Gravestone_climb.png",
+            "condition": "None",
+            "flipresource": "Gravestone_flip.png",
+            "name": "Gravestone",
+            "package": "Community Hats",
+            "reshasha": "9749b1046fd40eb9433aa6dc066e5a2c",
+            "reshashc": "4a3264c5015861cc40d71dd9c910231c",
+            "reshashf": "620852cca385f0b04df45aab3e319aa4",
+            "resource": "Gravestone.png"
+        },
+        {
+            "adaptive": true,
+            "author": "memesaba",
+            "backflipresource": "Trident_flip_back_adaptive.png",
+            "backresource": "Trident_back_adaptive.png",
+            "climbresource": "Trident_climb_adaptive.png",
+            "condition": "None",
+            "flipresource": "Trident_flip_adaptive.png",
+            "name": "Trident",
+            "package": "Community Hats",
+            "reshasha": "37b21390ddaa47a99d7b3bc7d9433d33",
+            "reshashb": "f5a5b1847ad24227fa2d8b2a88fd1060",
+            "reshashbf": "39b1ec4e5acb4de827f442a2f4ce0127",
+            "reshashc": "1e8a480596ca7a57551d6cd242ff7f14",
+            "reshashf": "1bfb77f3b05d6a926c69df5ce60d7f65",
+            "resource": "Trident_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Thief_climb.png",
+            "condition": "None",
+            "flipresource": "Thief_flip.png",
+            "name": "Thief",
+            "package": "Community Hats",
+            "reshasha": "0c97151d778c12b26181ce8ae430be4c",
+            "reshashc": "e70febffbfca3ae71494884f1736c8c0",
+            "reshashf": "80e80e52d4ed7a241a72a64ca67994ac",
+            "resource": "Thief_adaptive.png"
+        },
+        {
+            "author": "K3ndp",
+            "backresource": "Druid_back.png",
+            "climbresource": "Druid_climb.png",
+            "condition": "None",
+            "name": "Druid",
+            "package": "Community Hats",
+            "reshasha": "2596f28c313e11be017367d7427f2880",
+            "reshashb": "3b33d498f0282334b1515b8b49cb193d",
+            "reshashc": "f90a3736d39acf160dff9355d6c17c05",
+            "resource": "Druid.png"
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "Rxzjeff_climb.png",
+            "condition": "None",
+            "name": "Rxzjeff",
+            "package": "Community Hats",
+            "reshasha": "3eae5ff6dd16edaeb5fde492c8b792e9",
+            "reshashc": "b471447802d977f62cc8029e2a69d7b0",
+            "resource": "Rxzjeff.png"
+        },
+        {
+            "author": "Drakoni",
+            "climbresource": "Creepytree_climb.png",
+            "condition": "None",
+            "name": "Creepytree",
+            "package": "Community Hats",
+            "reshasha": "996268bd4265a9ddf9bd88c9eed3ad67",
+            "reshashc": "562c36450ca0260413fd8b9f3a47c7b4",
+            "resource": "Creepytree.png"
+        },
+        {
+            "author": "K3ndo",
+            "backresource": "Banner_back.png",
+            "climbresource": "Banner_climb.png",
+            "condition": "None",
+            "name": "Banner",
+            "package": "Community Hats",
+            "reshasha": "c3e20fb2b82ee39de7774dbfa8e77442",
+            "reshashb": "07a3a73ef1d21bcedfeb662d26d5f24b",
+            "reshashc": "cef9d500cfa6629e34e63e4aff23717b",
+            "resource": "Banner.png"
         }
     ]
 }
