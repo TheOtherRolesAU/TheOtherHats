@@ -2313,17 +2313,6 @@
             "resource": "Pig_adaptive.png"
         },
         {
-            "adaptive": true,
-            "author": "K3ndo",
-            "climbresource": "Wasteland_adaptive_climb.png",
-            "condition": "None",
-            "name": "Wasteland",
-            "package": "Community Hats",
-            "reshasha": "693613dcb43e50901b7ff805625d3daa",
-            "reshashc": "470591a3863747b9d4a39971b4a732ec",
-            "resource": "Wasteland_adaptive.png"
-        },
-        {
             "author": "Yoshilias",
             "climbresource": "Timit_climb.png",
             "condition": "None",
@@ -2536,6 +2525,123 @@
             "reshashb": "07a3a73ef1d21bcedfeb662d26d5f24b",
             "reshashc": "cef9d500cfa6629e34e63e4aff23717b",
             "resource": "Banner.png"
+        },
+        {
+            "author": "K3ndo",
+            "backresource": "Cleaner_back.png",
+            "climbresource": "Cleaner_climb.png",
+            "condition": "None",
+            "name": "Cleaner",
+            "package": "Community Hats",
+            "reshasha": "57e86961435f331f94687a899bafd8a0",
+            "reshashb": "a5d46e7a692e2713cf81a50cc85d15ab",
+            "reshashc": "810021229a150afeacd0d7bce52f3db3",
+            "resource": "Cleaner.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Flower_adaptive_climb.png",
+            "condition": "None",
+            "name": "Flower",
+            "package": "Community Hats",
+            "reshasha": "875fc97129807a940a4ace245a68d2c5",
+            "reshashc": "1835f346512aa46711ae50a2af69a06c",
+            "resource": "Flower_adaptive.png"
+        },
+        {
+            "author": "Mat",
+            "climbresource": "Pennington_climb.png",
+            "condition": "None",
+            "name": "Pennington",
+            "package": "Community Hats",
+            "reshasha": "92d5da80ae4c282343e5aac5845d49f7",
+            "reshashc": "84a705ef5b8d490022e8a0d1330d7a25",
+            "resource": "Pennington.png"
+        },
+        {
+            "author": "K3ndo",
+            "backflipresource": "Lumberjack_back_flip.png",
+            "backresource": "Lumberjack_back.png",
+            "climbresource": "Lumberjack_climb.png",
+            "condition": "None",
+            "name": "Lumberjack",
+            "package": "Community Hats",
+            "reshasha": "cc7068227050fc4032d0ad854297d9f5",
+            "reshashb": "5b6c819c2024cf112f34bbaaaf963242",
+            "reshashbf": "caf05f115f6e03e9898efc54cbf6f5d4",
+            "reshashc": "c66aa0ff36ba6f26ae5846bfe6772440",
+            "resource": "Lumberjack.png"
+        },
+        {
+            "adaptive": true,
+            "author": "memesaba",
+            "backresource": "Dolphin_back_adaptive.png",
+            "climbresource": "Dolphin_climb_adaptive.png",
+            "condition": "None",
+            "name": "Dolphin",
+            "package": "Community Hats",
+            "reshasha": "781ff83fc9358ad3931a794220ff6d44",
+            "reshashb": "21af4af506384b4aedfa1e4f7dc72269",
+            "reshashc": "41e47cbac5165b3dbd65f1a5fc7b014c",
+            "resource": "Dolphin_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Puppeteer_back.png",
+            "climbresource": "Puppeteer_adaptive_climb.png",
+            "condition": "None",
+            "name": "Puppeteer",
+            "package": "Community Hats",
+            "reshasha": "264b85671568f83589d2195a0803483e",
+            "reshashb": "30fb763713e6d3bc65451fb808e373fe",
+            "reshashc": "ba6362f1a8689b291275d86de910bff6",
+            "resource": "Puppeteer_adaptive.png"
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "Swapper_climb.png",
+            "condition": "None",
+            "flipresource": "Swapper_flip.png",
+            "name": "Swapper",
+            "package": "Community Hats",
+            "reshasha": "3aea11d441da87d09a6d22cf4baadb58",
+            "reshashc": "90675bcdda37b5d6b5b573e748e03a8c",
+            "reshashf": "094d289189e8fe26096138ddab2cc18c",
+            "resource": "Swapper.png"
+        },
+        {
+            "author": "Dark Nebula",
+            "climbresource": "Monster Mouth_climb.png",
+            "condition": "None",
+            "name": "Monster Mouth",
+            "package": "Community Hats",
+            "reshasha": "d88ec3f6423531b176c990696a9d2bd5",
+            "reshashc": "b53356cb8302ef01162be5f43470b654",
+            "resource": "Monster Mouth.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Wasteland_adaptive_climb.png",
+            "condition": "None",
+            "name": "Wasteland",
+            "package": "Community Hats",
+            "reshasha": "2e01a04ef75557199ef0a1146178d097",
+            "reshashc": "d79bde2c7436736ba627a96f61e94cab",
+            "resource": "Wasteland_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Frostmage_adaptive_climb.png",
+            "condition": "None",
+            "name": "Frostmage",
+            "package": "Community Hats",
+            "reshasha": "992de32d1607f76950a08c169e2f365e",
+            "reshashc": "789fde8ba5659e6f7206986129bc99c3",
+            "resource": "Frostmage_adaptive.png"
         }
     ]
 }
