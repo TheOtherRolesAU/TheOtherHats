@@ -2391,22 +2391,6 @@
         },
         {
             "author": "K3ndo",
-            "backflipresource": "Goodevil_back_flip.png",
-            "backresource": "Goodevil_back.png",
-            "climbresource": "Goodevil_climb.png",
-            "condition": "None",
-            "flipresource": "Goodevil_flip.png",
-            "name": "Goodevil",
-            "package": "Community Hats",
-            "reshasha": "28fdc7ad0b722a3e2e6288dfc8c3b701",
-            "reshashb": "3d1c48c77de5a47adb468cdd629fa59a",
-            "reshashbf": "e1b55d09f0b129af03ca84f93cf83be0",
-            "reshashc": "f779a7844519e3e3b6725980d901cb75",
-            "reshashf": "be7c444d04284b7b80a8dfb19fcda21b",
-            "resource": "Goodevil.png"
-        },
-        {
-            "author": "K3ndo",
             "backresource": "Cardboard_back.png",
             "climbresource": "Cardboard_climb.png",
             "condition": "None",
@@ -2642,6 +2626,110 @@
             "reshasha": "992de32d1607f76950a08c169e2f365e",
             "reshashc": "789fde8ba5659e6f7206986129bc99c3",
             "resource": "Frostmage_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "UMOU FUTON",
+            "climbresource": "Sheep_climb_adaptive.png",
+            "condition": "None",
+            "name": "CuteSheep",
+            "package": "Community Hats",
+            "reshasha": "8409b745142b830da4621082ed41371f",
+            "reshashc": "fbd9e4f8a811141a735ba677f522af38",
+            "resource": "Sheep_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "UMOU FUTON",
+            "climbresource": "shinobi_climb.png",
+            "condition": "None",
+            "name": "Shinobi",
+            "package": "Community Hats",
+            "reshasha": "98ccc5919028ebbfb84a31d473c3f390",
+            "reshashc": "80727d978a5ca3882bb0f8668b2e3763",
+            "resource": "shinobi_adaptive.png"
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "Jester_climb.png",
+            "condition": "None",
+            "name": "Jester",
+            "package": "Community Hats",
+            "reshasha": "93086b68752b708b177b763fc7057006",
+            "reshashc": "f9a9d0441ceec15420e16794eeefa0c3",
+            "resource": "Jester.png"
+        },
+        {
+            "author": "K3ndo",
+            "backresource": "Baitdonkey_back.png",
+            "climbresource": "Baitdonkey_climb.png",
+            "condition": "None",
+            "name": "Baitdonkey",
+            "package": "Community Hats",
+            "reshasha": "3b7af8068e9cd0e203629fc69939eb52",
+            "reshashb": "d97bc5ca90386e59020235af165b1142",
+            "reshashc": "eaccd12caf9210838d61a8bcf13e29b4",
+            "resource": "Baitdonkey.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Dark Nebula",
+            "climbresource": "Piggyback_climb.png",
+            "condition": "None",
+            "name": "Piggyback",
+            "package": "Community Hats",
+            "reshasha": "4b11d37f18b54c9b9f21449d3daf8ff0",
+            "reshashc": "4ef50206d9de54a85e27469bbd891170",
+            "resource": "Piggyback_adaptive.png"
+        },
+        {
+            "author": "K3ndo",
+            "backflipresource": "Goodevil_back_flip.png",
+            "backresource": "Goodevil_back.png",
+            "climbresource": "Goodevil_climb.png",
+            "condition": "None",
+            "flipresource": "Goodevil_flip.png",
+            "name": "Goodevil",
+            "package": "Community Hats",
+            "reshasha": "2ccd4ed2701d114b5d39766bd2d2445d",
+            "reshashb": "f694186affb436b5b6b5ebd82f1ce68e",
+            "reshashbf": "e1b55d09f0b129af03ca84f93cf83be0",
+            "reshashc": "8657f919b1cc54629ec4e9ae12a1ee9f",
+            "reshashf": "be7c444d04284b7b80a8dfb19fcda21b",
+            "resource": "Goodevil.png"
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "NewSheriffInTown_climb.png",
+            "condition": "None",
+            "name": "NewSheriffInTown",
+            "package": "Community Hats",
+            "reshasha": "3b23592699e4682abadf7547e1648f4e",
+            "reshashc": "21c863c0bad55d149122eef4f59ebb6c",
+            "resource": "NewSheriffInTown.png"
+        },
+        {
+            "author": "Dark Nebula",
+            "bounce": true,
+            "climbresource": "StuffedBunny_climb.png",
+            "condition": "None",
+            "name": "StuffedBunny",
+            "package": "Community Hats",
+            "reshasha": "eca5c4ace4637f29849c14e93fd1c7c4",
+            "reshashc": "5913373cfa30ed53401dd2267d133314",
+            "resource": "StuffedBunny_bounce.png"
+        },
+        {
+            "author": "Dark Nebula",
+            "backresource": "InPasta_back.png",
+            "climbresource": "InPasta_climb.png",
+            "condition": "None",
+            "name": "InPasta",
+            "package": "Community Hats",
+            "reshasha": "ddeceb5bb296f1b9defeae6064228656",
+            "reshashb": "9f239be83aa1974d70781b15b038ef68",
+            "reshashc": "77890e3a851ee7369ae2a947a568b368",
+            "resource": "InPasta.png"
         }
     ]
 }
