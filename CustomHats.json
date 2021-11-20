@@ -2730,6 +2730,73 @@
             "reshashb": "9f239be83aa1974d70781b15b038ef68",
             "reshashc": "77890e3a851ee7369ae2a947a568b368",
             "resource": "InPasta.png"
+        },
+        {
+            "author": "K3ndo",
+            "bounce": true,
+            "climbresource": "Thinking_bounce_climb.png",
+            "condition": "None",
+            "name": "Thinking",
+            "package": "Community Hats",
+            "reshasha": "d1f47820e62e9ae0a189aad82fba83d5",
+            "reshashc": "e9d94750167060441e663cdc60322fd4",
+            "resource": "Thinking_bounce.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "IceHockey_adaptive_back.png",
+            "climbresource": "IceHockey_adaptive_climb.png",
+            "condition": "None",
+            "name": "IceHockey",
+            "package": "Community Hats",
+            "reshasha": "9e4232a306aa06ea54c999a3928fb7cb",
+            "reshashb": "250d6bd5d002e7ebae08a33847af62d7",
+            "reshashc": "9b285a1d0c2cede5801b01ac4c5fe023",
+            "resource": "IceHockey_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Taira",
+            "climbresource": "sad_climb_adaptive.png",
+            "condition": "None",
+            "name": "sad",
+            "package": "Community Hats",
+            "reshasha": "42f50d2fe4f871c33eef00ff39441d20",
+            "reshashc": "67ce4f35df12c3c0f5d39bf0a9b436d9",
+            "resource": "sad_adaptive.png"
+        },
+        {
+            "author": "Teki",
+            "climbresource": "TechieJunk_adaptive_climb.png",
+            "condition": "None",
+            "name": "TechieJunk",
+            "package": "Community Hats",
+            "reshasha": "5693a08ce51f5be69bc033d31736bc9e",
+            "reshashc": "74cb999167283a24af9dc505287bf95a",
+            "resource": "TechieJunk_adaptive Kopie.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Taira",
+            "climbresource": "baby_climb_adaptive.png",
+            "condition": "None",
+            "name": "baby",
+            "package": "Community Hats",
+            "reshasha": "5c98746d0018f0c3636dfdacea34f008",
+            "reshashc": "b3ca7478a3bc0d6b5e5eb4ae7bdcbce4",
+            "resource": "baby_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "SantaClaus_adaptive_climb.png",
+            "condition": "None",
+            "name": "SantaClaus",
+            "package": "Community Hats",
+            "reshasha": "b0189253ce29153587e3d8b137d21c52",
+            "reshashc": "b8d7bca5d3b6f1c5e2c638f2672a084d",
+            "resource": "SantaClaus_adaptive.png"
         }
     ]
 }
