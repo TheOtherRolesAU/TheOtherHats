@@ -2767,16 +2767,6 @@
             "resource": "sad_adaptive.png"
         },
         {
-            "author": "Teki",
-            "climbresource": "TechieJunk_adaptive_climb.png",
-            "condition": "None",
-            "name": "TechieJunk",
-            "package": "Community Hats",
-            "reshasha": "5693a08ce51f5be69bc033d31736bc9e",
-            "reshashc": "74cb999167283a24af9dc505287bf95a",
-            "resource": "TechieJunk_adaptive Kopie.png"
-        },
-        {
             "adaptive": true,
             "author": "Taira",
             "climbresource": "baby_climb_adaptive.png",
@@ -2797,6 +2787,17 @@
             "reshasha": "b0189253ce29153587e3d8b137d21c52",
             "reshashc": "b8d7bca5d3b6f1c5e2c638f2672a084d",
             "resource": "SantaClaus_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Teki",
+            "climbresource": "TechieJunk_adaptive_climb.png",
+            "condition": "None",
+            "name": "TechieJunk",
+            "package": "Community Hats",
+            "reshasha": "5693a08ce51f5be69bc033d31736bc9e",
+            "reshashc": "74cb999167283a24af9dc505287bf95a",
+            "resource": "TechieJunk_adaptive.png"
         }
     ]
 }
