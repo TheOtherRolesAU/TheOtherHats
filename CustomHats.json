@@ -2172,18 +2172,6 @@
             "resource": "Parrot_adaptive.png"
         },
         {
-            "author": "Listoric",
-            "climbresource": "bloodymary_climb.png",
-            "condition": "None",
-            "flipresource": "bloodymary_flip.png",
-            "name": "bloodymary",
-            "package": "Community Hats",
-            "reshasha": "8efc67503a45c7380fbb637eccd7db3a",
-            "reshashc": "de99c044307e92071186ac5ab5dfd706",
-            "reshashf": "c29d63ca712763cbe545306098f6995f",
-            "resource": "bloodymary.png"
-        },
-        {
             "author": "Lanelore",
             "climbresource": "Sushi_climb.png",
             "condition": "None",
@@ -2787,6 +2775,18 @@
             "reshasha": "5693a08ce51f5be69bc033d31736bc9e",
             "reshashc": "74cb999167283a24af9dc505287bf95a",
             "resource": "TechieJunk_adaptive.png"
+        },
+        {
+            "author": "Listoric",
+            "climbresource": "bloodymary_climb.png",
+            "condition": "None",
+            "flipresource": "bloodymary_flip.png",
+            "name": "bloodymary",
+            "package": "Community Hats",
+            "reshasha": "f9f1585d018bfc2949be3a38dc8651ff",
+            "reshashc": "de99c044307e92071186ac5ab5dfd706",
+            "reshashf": "e5d6f1d82236d6062ea0219f73756174",
+            "resource": "bloodymary.png"
         }
     ]
 }
