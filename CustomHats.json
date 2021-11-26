@@ -2787,6 +2787,17 @@
             "reshashc": "de99c044307e92071186ac5ab5dfd706",
             "reshashf": "e5d6f1d82236d6062ea0219f73756174",
             "resource": "bloodymary.png"
+        },
+        {
+            "adaptive": true,
+            "author": "UMOU FUTON",
+            "climbresource": "Sheep_climb_adaptive.png",
+            "condition": "None",
+            "name": "Sheep", 
+            "package": "Community Hats",
+            "reshasha": "53501b1db42df5f45a60c815b453c2d3",
+            "reshashc": "7b7f8d403e24a003a636bc678b44a051",
+            "resource": "Sheep_adaptive.png"
         }
     ]
 }
