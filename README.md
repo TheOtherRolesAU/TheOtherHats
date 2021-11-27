@@ -1,3 +1,5 @@
+![TheOtherHats Banner](./Images/TheOtherHats_logo.png)
+
 # TheOtherHats
 We're awaiting your creative hat designs and we'll integrate all the good ones in our mod  :heart_eyes:
 Here are a few instructions, on how to create a custom hat:
