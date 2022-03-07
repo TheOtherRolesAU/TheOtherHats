@@ -3389,6 +3389,18 @@
             "package": "Community Hats",
             "reshasha": "c457064ec155a28d2dd466ffa707f1b1",
             "resource": "TakeMyMoney_adaptive.png"
+        },
+        {
+            "author": "Yoshilias",
+            "backresource": "TimitFluffy_back.png",
+            "climbresource": "TimitFluffy_climb.png",
+            "condition": "None",
+            "name": "Timit Fluffy",
+            "package": "Community Hats",
+            "reshasha": "1ae26392c0d99a21346791422d3613bc",
+            "reshashb": "cba09795887e9f2d6f8a1044c0dc0767",
+            "reshashc": "2411df064828e05781467e6149b89ae2",
+            "resource": "TimitFluffy.png"
         }
     ]
 }
