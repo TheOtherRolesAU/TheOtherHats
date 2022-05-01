@@ -1328,17 +1328,6 @@
         {
             "adaptive": true,
             "author": "K3ndo",
-            "climbresource": "Knight_adaptive_climb.png",
-            "condition": "None",
-            "name": "Knight",
-            "package": "Community Hats",
-            "reshasha": "cab28930818f8dd1d5f0bd22dbe44294",
-            "reshashc": "c20c49cf59a715f8658af392865a475a",
-            "resource": "Knight_adaptive.png"
-        },
-        {
-            "adaptive": true,
-            "author": "K3ndo",
             "climbresource": "Firefighter_adaptive_climb.png",
             "condition": "None",
             "name": "Firefighter",
@@ -3401,6 +3390,128 @@
             "reshashb": "cba09795887e9f2d6f8a1044c0dc0767",
             "reshashc": "2411df064828e05781467e6149b89ae2",
             "resource": "TimitFluffy.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Catudon",
+            "backresource": "cat_back_adaptive.png",
+            "climbresource": "cat_climb_adaptive.png",
+            "condition": "None",
+            "name": "Cat",
+            "package": "Community Hats",
+            "reshasha": "b0156884ea5ea8d4d0952f22dc88dd72",
+            "reshashb": "98b21505074bc4502ded7a226180c710",
+            "reshashc": "a159004244f35f7d454b164272427c16",
+            "resource": "cat_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "EngineerToR_adaptive_climb.png",
+            "condition": "None",
+            "name": "EngineerToR",
+            "package": "Community Hats",
+            "reshasha": "f524e889c9cfb22342b5dbfa7020a4c9",
+            "reshashc": "4a9101bd79df0601cceb7b8b232c2aa8",
+            "resource": "EngineerToR_adaptive.png"
+        },
+        {
+            "author": "Yoshilias",
+            "climbresource": "Goldgoogly_climb.png",
+            "condition": "None",
+            "name": "Goldgoogly",
+            "package": "Community Hats",
+            "reshasha": "3f55863e54740df01855bedf7e47ba7f",
+            "reshashc": "366fa409caed7ff4877472ceda02e9a6",
+            "resource": "Goldgoogly_flip.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Unkown",
+            "climbresource": "Knight_adaptive_climb.png",
+            "condition": "None",
+            "name": "Knight",
+            "package": "Community Hats",
+            "reshasha": "ab75d9b4d136e90713448899c6337014",
+            "reshashc": "afd1223f93ecc39e315f5b74dd22232e",
+            "resource": "Knight_adaptive.png"
+        },
+        {
+            "author": "K3ndo",
+            "climbresource": "Neanderthal_climb.png",
+            "condition": "None",
+            "name": "Neanderthal",
+            "package": "Community Hats",
+            "reshasha": "31285cdd3ba25dee0a2ac109612e9796",
+            "reshashc": "faaeace8cd362ae8e4873773173f1f79",
+            "resource": "Neanderthal.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Taira",
+            "climbresource": "PhillipsScrew_climb_adaptive.png",
+            "condition": "None",
+            "name": "PhillipsScrew",
+            "package": "Community Hats",
+            "reshasha": "6d26f0725117ee9cae296b302eb8fbda",
+            "reshashc": "de318142cf97e07547d5f7fea1262cb2",
+            "resource": "PhillipsScrew_adaptive.png"
+        },
+        {
+            "author": "Jas",
+            "climbresource": "redpanda_climb.png",
+            "condition": "None",
+            "name": "redpanda",
+            "package": "Community Hats",
+            "reshasha": "a870eb3ddca770e12e434d92ec84d3ef",
+            "reshashc": "9c29738acef7b43158dd19ee04dd6618",
+            "resource": "redpanda.png"
+        },
+        {
+            "author": "Dr.Pflanze",
+            "climbresource": "Rubberduck_climb.png",
+            "condition": "None",
+            "name": "Rubberduck",
+            "package": "Community Hats",
+            "reshasha": "be8b0f8194e7398f228cc90d89f912ee",
+            "reshashc": "905b567d6cda139424f135e2cc12f15c",
+            "resource": "Rubberduck.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Yoshilias",
+            "climbresource": "Tablet_climb.png",
+            "condition": "None",
+            "name": "Tablet",
+            "package": "Community Hats",
+            "reshasha": "b5bc19cac8675791fced0a9b8f9f311c",
+            "reshashc": "3f8dd67e4fb96032097a24caf71fc4d5",
+            "resource": "Tablet_adaptive_flip.png"
+        },
+        {
+            "author": "Пиф",
+            "backresource": "Wires_back.png",
+            "climbresource": "Wires_climb.png",
+            "condition": "None",
+            "name": "Wires",
+            "package": "Community Hats",
+            "reshasha": "33e2fb37b063cc93a3fd12e2dfbfcaf5",
+            "reshashb": "cada885da4e2da7a4f3811727b61dadf",
+            "reshashc": "2cfd9496f66a8084c3ad0cdc85da3d76",
+            "resource": "Wires.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Пиф",
+            "backresource": "Wolf_back.png",
+            "climbresource": "Wolf_climb.png",
+            "condition": "None",
+            "name": "Wolf",
+            "package": "Community Hats",
+            "reshasha": "a98534e5b5b525c2cabb97551f688610",
+            "reshashb": "05965140cc4a4432c6ba703ec65ec880",
+            "reshashc": "7cc076d03638fdefddf7547ce607d5da",
+            "resource": "Wolf_adaptive.png"
         }
     ]
 }
