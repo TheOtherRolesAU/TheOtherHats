@@ -3393,19 +3393,6 @@
         },
         {
             "adaptive": true,
-            "author": "Catudon",
-            "backresource": "cat_back_adaptive.png",
-            "climbresource": "cat_climb_adaptive.png",
-            "condition": "None",
-            "name": "Cat",
-            "package": "Community Hats",
-            "reshasha": "b0156884ea5ea8d4d0952f22dc88dd72",
-            "reshashb": "98b21505074bc4502ded7a226180c710",
-            "reshashc": "a159004244f35f7d454b164272427c16",
-            "resource": "cat_adaptive.png"
-        },
-        {
-            "adaptive": true,
             "author": "K3ndo",
             "climbresource": "EngineerToR_adaptive_climb.png",
             "condition": "None",
@@ -3512,6 +3499,19 @@
             "reshashb": "05965140cc4a4432c6ba703ec65ec880",
             "reshashc": "7cc076d03638fdefddf7547ce607d5da",
             "resource": "Wolf_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Catudon",
+            "backresource": "cat2_back_adaptive.png",
+            "climbresource": "cat2_climb_adaptive.png",
+            "condition": "None",
+            "name": "cat2",
+            "package": "Community Hats",
+            "reshasha": "b0156884ea5ea8d4d0952f22dc88dd72",
+            "reshashb": "98b21505074bc4502ded7a226180c710",
+            "reshashc": "a159004244f35f7d454b164272427c16",
+            "resource": "cat2_adaptive.png"
         }
     ]
 }
