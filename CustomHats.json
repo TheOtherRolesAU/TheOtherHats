@@ -3427,7 +3427,7 @@
         },
         {
             "adaptive": true,
-            "author": "Unkown",
+            "author": "K3ndo",
             "climbresource": "Knight_adaptive_climb.png",
             "condition": "None",
             "name": "Knight",
