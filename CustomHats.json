@@ -3512,6 +3512,158 @@
             "reshashb": "98b21505074bc4502ded7a226180c710",
             "reshashc": "a159004244f35f7d454b164272427c16",
             "resource": "cat2_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "K3ndo_adaptive_climb.png",
+            "condition": "None",
+            "name": "K3ndo",
+            "package": "Developer Hats",
+            "reshasha": "dc86422a50fc5102bcb6a27117be7c09",
+            "reshashc": "051b6d4981b96efd5cadaf4e29a6fa07",
+            "resource": "K3ndo_adaptive.png"
+        },
+        {
+            "author": "Yoshilias",
+            "backresource": "Sykkuno_back.png",
+            "climbresource": "Sykkuno_climb.png",
+            "condition": "None",
+            "name": "Sykkuno",
+            "package": "Community Hats",
+            "reshasha": "cb0855f36dca12ec221f16aa4793cd0a",
+            "reshashb": "13db0c7becad7a7ae65c2337a090c65a",
+            "reshashc": "bf968959eb9fc33e265b4338922169d0",
+            "resource": "Sykkuno.png"
+        },
+        {
+            "author": "K3ndo",
+            "backresource": "GeorgeWashington_back.png",
+            "climbresource": "GeorgeWashington_climb.png",
+            "condition": "None",
+            "name": "GeorgeWashington",
+            "package": "Community Hats",
+            "reshasha": "c78010f75589a0c30f93597612f169fa",
+            "reshashb": "24e9a5190ed942291805ae7a05754cff",
+            "reshashc": "cb688b4429f73f744818176f54c36cfb",
+            "resource": "GeorgeWashington.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Bomb_adaptive_climb.png",
+            "condition": "None",
+            "name": "Bomb",
+            "package": "Community Hats",
+            "reshasha": "07da10f37078cb6aef2fd3c55d317322",
+            "reshashc": "89da63d626f23e797f44d500ad8006cb",
+            "resource": "Bomb_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Future_adaptive_climb.png",
+            "condition": "None",
+            "name": "Future",
+            "package": "Community Hats",
+            "reshasha": "561c4ef6f4066bcbb863a5d8c34f0882",
+            "reshashc": "6753f6ec0c36e150ba8b96fd1866e495",
+            "resource": "Future_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Electric_adaptive_climb.png",
+            "condition": "None",
+            "name": "Electric",
+            "package": "Community Hats",
+            "reshasha": "62a662da3dc028b336463b4a82dea879",
+            "reshashc": "ebd1b895127c37e36be63c3cb11e1e22",
+            "resource": "Electric_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Chef_adaptive_back.png",
+            "climbresource": "Chef_adaptive_climb.png",
+            "condition": "None",
+            "name": "Chef",
+            "package": "Community Hats",
+            "reshasha": "bf02c1b606be439cdd998e08e3972968",
+            "reshashb": "e66bf58c4852236d151d0d60c418875d",
+            "reshashc": "550acc5945167261eb97d0ed9a770cb3",
+            "resource": "Chef_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Beethoven_adaptive_back.png",
+            "climbresource": "Beethoven_adaptive_climb.png",
+            "condition": "None",
+            "name": "Beethoven",
+            "package": "Community Hats",
+            "reshasha": "8e2f5f883d43b4d49e9888ee13747d8b",
+            "reshashb": "60aeb1105a92ee6d3f787cd2ff6aa59c",
+            "reshashc": "1dc08cb97f640943626462356cd7ca5b",
+            "resource": "Beethoven_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Catudon",
+            "climbresource": "coala_adaptive_climb.png",
+            "condition": "None",
+            "name": "coala",
+            "package": "Community Hats",
+            "reshasha": "fbd83314df69d5db3d88091418704bd6",
+            "reshashc": "7009d740c72d675e81e39fdaa18f40fc",
+            "resource": "coala_adaptive.png"
+        },
+        {
+            "author": "Yoshilias",
+            "climbresource": "DisguisedToast_climb.png",
+            "condition": "None",
+            "flipresource": "DisguisedToast_flip.png",
+            "name": "DisguisedToast",
+            "package": "Community Hats",
+            "reshasha": "bbfd6daeba5153c9906aa2f3f033e341",
+            "reshashc": "73706102ae7571cc7c79071471215df4",
+            "reshashf": "11623dc8fdb0bf46a071c9b878567694",
+            "resource": "DisguisedToast.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Rogue_adaptive_climb.png",
+            "condition": "None",
+            "name": "Rogue",
+            "package": "Community Hats",
+            "reshasha": "6f2afcf60ffe9197eb9b68c2e274ded0",
+            "reshashc": "d2b7840a34634e673a358f833615c676",
+            "resource": "Rogue_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Newton_adaptive_back.png",
+            "climbresource": "Newton_adaptive_climb.png",
+            "condition": "None",
+            "name": "Newton",
+            "package": "Community Hats",
+            "reshasha": "4535c97ed88f570074a68dbd3a6a108e",
+            "reshashb": "6883f5b2f04e9fe0fa8ccc2d2f4694e9",
+            "reshashc": "58785c1b8cdf70ebcbd6325f5d4ae7b6",
+            "resource": "Newton_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "climbresource": "Newspaper2_adaptive_climb.png",
+            "condition": "None",
+            "name": "Newspaper2",
+            "package": "Community Hats",
+            "reshasha": "7d3ecb44ce465e1b0665685aac549a10",
+            "reshashc": "a51614d546a0bf96702fa48d3f31d5f9",
+            "resource": "Newspaper2_adaptive.png"
         }
     ]
 }
