@@ -3762,6 +3762,19 @@
             "reshasha": "83408c63563b4113fc1c375e007b0d56",
             "reshashc": "d242db9054b347b5fa66f30d212cc42a",
             "resource": "smeggytv_adaptive.png"
+        },
+        {
+            "author": "K3ndo",
+            "bounce": true,
+            "climbresource": "Mirana_climb.png",
+            "condition": "None",
+            "flipresource": "Mirana_bounce_flip.png",
+            "name": "Mirana",
+            "package": "Community Hats",
+            "reshasha": "8ce488cd06c70a635c56ef0995a9af31",
+            "reshashc": "de76b957219e587f508cdb73f634251b",
+            "reshashf": "00e1cd3a57f33aa269d70badc056c3d4",
+            "resource": "Mirana_bounce.png"
         }
     ]
 }
