@@ -2432,7 +2432,7 @@
             "resource": "Thief_adaptive.png"
         },
         {
-            "author": "K3ndp",
+            "author": "K3ndo",
             "backresource": "Druid_back.png",
             "climbresource": "Druid_climb.png",
             "condition": "None",
@@ -3895,6 +3895,139 @@
             "reshashb": "ef6a7e1d750814a928fe73c555cc2d6c",
             "reshashc": "ed82c66ab75e28de1c97c8f1b76186b6",
             "resource": "UFO_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Bound_adaptive_back.png",
+            "climbresource": "Bound_adaptive_climb.png",
+            "condition": "None",
+            "name": "Bound",
+            "package": "Community Hats",
+            "reshasha": "016897b1fcfae32081fdcea4e0af47b1",
+            "reshashb": "c4bc5a914ecf19d650eb3ee3cdaa003d",
+            "reshashc": "e3f1bbf622fa33c00b59eb76ee312045",
+            "resource": "Bound_adaptive.png"
+        },
+        {
+            "author": "Maidness",
+            "backresource": "bunnysuit_back.png",
+            "climbresource": "bunnysuit_climb.png",
+            "condition": "None",
+            "name": "bunnysuit",
+            "package": "Community Hats",
+            "reshasha": "d6df7c6271a9fa109ae2ba91b3facca9",
+            "reshashb": "a8f3e6b8d0b397cd88f0af2469af79d1",
+            "reshashc": "5ef7886a67659d80911f6faa0a788d72",
+            "resource": "bunnysuit.png"
+        },
+        {
+            "author": "DesiDaWulf",
+            "backresource": "Dragon_adaptive_back.png",
+            "climbresource": "Dragon_adaptive_climb.png",
+            "condition": "None",
+            "name": "Dragon",
+            "package": "Community Hats",
+            "reshasha": "8b8274b0cb02ef89614f6cdb43595828",
+            "reshashb": "a1dbf18d90383ab3703288fc6cd1b08d",
+            "reshashc": "1b7a6f38d58c9ec2ab26b0b307f5621e",
+            "resource": "Dragon_adaptive 2.png"
+        },
+        {
+            "adaptive": true,
+            "author": "DesiDaWulf",
+            "climbresource": "racecar_climb_adaptive.png",
+            "condition": "None",
+            "name": "racecar",
+            "package": "Community Hats",
+            "reshasha": "fbf0620f89a97d55b8d5d152223ec352",
+            "reshashc": "50f3147c13b436c7ae3d8016942e8dda",
+            "resource": "racecar_adaptive.png"
+        },
+        {
+            "author": "GRIM",
+            "climbresource": "grimskull_climb.png",
+            "condition": "None",
+            "flipresource": "grimskull_flip.png",
+            "name": "grimskull",
+            "package": "Community Hats",
+            "reshasha": "c2f8dee55c96f3d8473a9a298784ad61",
+            "reshashc": "8f94fcee635f9959f2575968437b3ec5",
+            "reshashf": "aa0a0f807da54a0b6246e4304e87ac31",
+            "resource": "grimskull.png"
+        },
+        {
+            "author": "Hermans",
+            "climbresource": "four_winds_hat_climb.png",
+            "condition": "None",
+            "name": "four",
+            "package": "Community Hats",
+            "reshasha": "3ccdf23cab3b84a2fadf20964b9704c6",
+            "reshashc": "9f47f00f1ddad1dbd9684fe6d2820975",
+            "resource": "four_winds_hat.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Warrior_adaptive_back.png",
+            "climbresource": "Warrior_adaptive_climb.png",
+            "condition": "None",
+            "name": "Warrior",
+            "package": "Community Hats",
+            "reshasha": "4a158a7a316feb0d161a57a0af52bdfe",
+            "reshashb": "e2d906fabdcb5b062875875c606bb443",
+            "reshashc": "0c0fe313d84f037dcc1a5dac955ccdca",
+            "resource": "Warrior_adaptive.png"
+        },
+        {
+            "author": "Streamblox",
+            "backresource": "CelebrationWithHorn_back.png",
+            "climbresource": "CelebrationWithHorn_climb.png",
+            "condition": "None",
+            "name": "CelebrationWithHorn",
+            "package": "Community Hats",
+            "reshasha": "4234b810c84708fe3f3b8d16c0c7bf5f",
+            "reshashb": "c98fce52802c7dcf5ce8dd424448146b",
+            "reshashc": "4a7588ab8c778f524e5cbc4d48497ccc",
+            "resource": "CelebrationWithHorn.png"
+        },
+        {
+            "adaptive": true,
+            "author": "HannahTheBeef",
+            "bounce": true,
+            "climbresource": "HighlandCow_adaptive_climb.png",
+            "condition": "None",
+            "name": "HighlandCow",
+            "package": "Community Hats",
+            "reshasha": "7a24620c448038ef85c84b11791bfe69",
+            "reshashc": "8baf6eb733b5e728591e65dff9ef1ad5",
+            "resource": "HighlandCow_adaptive_bounce.png"
+        },
+        {
+            "adaptive": true,
+            "author": "mangotango",
+            "climbresource": "0_eyes_climb_adaptive.png",
+            "condition": "None",
+            "flipresource": "0_eyes_flip_adaptive.png",
+            "name": "A Lot of Eyes",
+            "package": "Community Hats",
+            "reshasha": "1a959720000eae6ad0b7184fad55cd86",
+            "reshashc": "5f0b6a81b6bd6a756a6a1e5ecab18104",
+            "reshashf": "fed85ba5cab90fca4af7125da8792b6a",
+            "resource": "0_eyes_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "dragon_back_adaptive.png",
+            "climbresource": "dragon_climb_adaptive.png",
+            "condition": "None",
+            "name": "dragon",
+            "package": "Community Hats",
+            "reshasha": "106bf07305a8469a4a69c1983d54f6b9",
+            "reshashb": "7df2bedbe68fdf4813d6617f6c30b856",
+            "reshashc": "4b4132ac151aa05ddcc600b36db4856c",
+            "resource": "dragon_adaptive.png"
         }
     ]
 }
