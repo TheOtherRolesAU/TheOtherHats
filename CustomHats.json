@@ -3922,6 +3922,7 @@
             "resource": "bunnysuit.png"
         },
         {
+            "adaptive": true,
             "author": "DesiDaWulf",
             "backresource": "Dragon_adaptive_back.png",
             "climbresource": "Dragon_adaptive_climb.png",
