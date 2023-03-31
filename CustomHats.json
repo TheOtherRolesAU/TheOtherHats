@@ -3926,7 +3926,7 @@
             "backresource": "Dragon_adaptive_back.png",
             "climbresource": "Dragon_adaptive_climb.png",
             "condition": "None",
-            "name": "Dragon",
+            "name": "LilDragon",
             "package": "Community Hats",
             "reshasha": "8b8274b0cb02ef89614f6cdb43595828",
             "reshashb": "a1dbf18d90383ab3703288fc6cd1b08d",
