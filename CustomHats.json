@@ -3745,14 +3745,14 @@
         },
         {
             "author": "Avlona",
-            "flipresource": "calf_flipflip.png",
+            "flipresource": "calf_flip.png",
             "climbresource": "calf_climb.png",
             "condition": "None",
             "name": "Calf",
             "package": "Community Hats",
-            "reshasha": "b1fba68c2117d63b70e83c42adee6ef9",
-            "reshashb": "43622d975cf82c7bb93437cb990054d0",
-            "reshashc": "3c344420316cc34e49ceeae32d3375bd",
+            "reshasha": "38902f6a1461b251654ba849f352fb5b",
+            "reshashf": "ae6c5d1f809730b53de0cffea2b9af9c",
+            "reshashc": "574803e2538d661150f14b6d9809e8cf",
             "resource": "calf.png"
         },
         {
@@ -3837,7 +3837,7 @@
             "condition": "None",
             "name": "Redhead",
             "package": "Community Hats",
-            "reshasha": "68877772416322e37ab2272001558975",
+            "reshasha": "d289ec7a3dd339a50c823451cd34d021",
             "reshashb": "0b2e7bdcecd2655cf7cff7b299bd094e",
             "reshashc": "a1f560cdf5d6ebb608d2bebbe1ca3aab",
             "resource": "Redhead.png"
