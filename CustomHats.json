@@ -3453,17 +3453,6 @@
             "resource": "GrimReaper_adaptive.png"
         },
         {
-            "adaptive": true,
-            "author": "K3ndo",
-            "climbresource": "smeggytv_climb_adaptive.png",
-            "condition": "None",
-            "name": "SmeggyTV",
-            "package": "Community Hats",
-            "reshasha": "83408c63563b4113fc1c375e007b0d56",
-            "reshashc": "d242db9054b347b5fa66f30d212cc42a",
-            "resource": "smeggytv_adaptive.png"
-        },
-        {
             "author": "K3ndo",
             "bounce": true,
             "climbresource": "Mirana_climb.png",
