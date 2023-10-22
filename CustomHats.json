@@ -3924,13 +3924,13 @@
         },
          {
             "author": "K3ndo",
-            "climbresource": "Spartan_climb",
+            "climbresource": "Spartan_climb.png",
             "condition": "None",
             "name": "Spartan",
             "package": "Community Hats",
             "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
             "reshashc": "f4feb820f9a814726c3972dd69e590a8",
-            "resource": "Spartan"
+            "resource": "Spartan.png"
         },
     ]
 }
