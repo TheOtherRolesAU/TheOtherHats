@@ -3453,6 +3453,16 @@
             "resource": "GrimReaper_adaptive.png"
         },
         {
+            "author": "Yoshilias",
+            "climbresource": "Smeggy_climb.png",
+            "condition": "None",
+            "name": "SmeggyTV",
+            "package": "Community Hats",
+            "reshasha": "e7a2adae801ddd25ca70c96ba0cb852d",
+            "reshashc": "e34c27d7af50fc8dd5a1ee29beba3549",
+            "resource": "Smeggy.png"
+        },
+        {
             "author": "K3ndo",
             "bounce": true,
             "climbresource": "Mirana_climb.png",
