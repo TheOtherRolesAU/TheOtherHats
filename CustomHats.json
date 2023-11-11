@@ -3744,7 +3744,7 @@
         },
         {
             "author": "Avlona",
-            "flipresource": "calf_flipflip.png",
+            "flipresource": "calf_flip.png",
             "climbresource": "calf_climb.png",
             "condition": "None",
             "name": "Calf",
