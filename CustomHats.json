@@ -4353,7 +4353,7 @@
             "backresource": "",
             "backflipresource": "",
             "flipresource": "",
-            "climbresource": "",
+            "climbresource": "kevinjeson_climb.png",
             "condition": "None",
             "name": "Kevinjeson",
             "package": "Community Hats",
@@ -4362,7 +4362,7 @@
             "reshashb": "",
             "reshashbf": "",
             "reshashc": "8a8954df69a9dec5734a3e3d0d24785a",
-            "resource": ""
+            "resource": "kevinjeson.png"
         },
 		       {
             "adaptive": false,
@@ -4852,6 +4852,7 @@
         },
     ]
 }
+
 
 
 
