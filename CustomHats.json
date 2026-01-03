@@ -3995,7 +3995,7 @@
             "flipresource": "",
             "climbresource": "beagle_climb.png",
             "condition": "None",
-            "name": "Beagle",
+            "name": "Askima_s",
             "package": "Community Hats",
             "reshasha": "0f4a8a2b3838513fc97d023b4b565db5",
             "reshashf": "",
@@ -4852,6 +4852,7 @@
         },
     ]
 }
+
 
 
 
