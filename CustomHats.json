@@ -4472,16 +4472,6 @@
             "author": "Fluse"
         },
         {
-            "name": "xafron",
-            "package": "Fluse Event Hats",
-            "condition": "None",
-            "resource": "xafron.png",
-            "reshasha": "50b75ce4607925f35f734bb22e1775c4",
-            "climbresource": "xafron_climb.png",
-            "reshashc": "6c9a6bdd6d06d4c596da88d5de3453f4",
-            "author": "Fluse"
-        },
-        {
             "name": "runner",
             "package": "Community Hats",
             "condition": "None",
@@ -4503,6 +4493,16 @@
             "climbresource": "Kaira_climb.png",
             "reshashc": "7e432f6ed2f16695f2c556536c2ee179",
             "author": "Kaira"
+        },
+        {
+            "name": "xafron",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "resource": "xafron.png",
+            "reshasha": "b3982434786ff1b4ed3e283374285077",
+            "climbresource": "xafron_climb.png",
+            "reshashc": "9a8f2cb16e10374bdb97051e01f9feaa",
+            "author": "Fluse"
         }
     ]
 }
