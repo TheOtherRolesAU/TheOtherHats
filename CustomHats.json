@@ -4303,17 +4303,6 @@
             "author": "LonelyKate"
         },
         {
-            "name": "mymil",
-            "package": "Fluse Event Hats",
-            "condition": "None",
-            "adaptive": true,
-            "resource": "mymil_adaptive.png",
-            "reshasha": "82d6c23176657fe3ad28d31a67bf2ed7",
-            "flipresource": "mymil_flip_adaptive.png",
-            "reshashf": "1eefb6a6fd7141c8ef3c240a78ed6862",
-            "author": "Fluse"
-        },
-        {
             "name": "nachtsitzung",
             "package": "Fluse Event Hats",
             "condition": "None",
@@ -4502,6 +4491,40 @@
             "reshasha": "b3982434786ff1b4ed3e283374285077",
             "climbresource": "xafron_climb.png",
             "reshashc": "9a8f2cb16e10374bdb97051e01f9feaa",
+            "author": "Fluse"
+        },
+        {
+            "name": "3h3c",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "adaptive": true,
+            "resource": "3h3c_adaptive.png",
+            "reshasha": "14772bb87050fb3d9ac09fd1d383dc38",
+            "climbresource": "3h3c_climb_adaptive.png",
+            "reshashc": "8937f6c58cb5f6eddb5a8dfdecaf50f1",
+            "author": "Fluse"
+        },
+        {
+            "name": "vivi",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "resource": "vivi.png",
+            "reshasha": "58ab3695e1039a3c1387b18f53648187",
+            "climbresource": "vivi_climb.png",
+            "reshashc": "1dceebd7c17611209224a3713351f0b9",
+            "author": "Fluse"
+        },
+        {
+            "name": "mymil",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "adaptive": true,
+            "resource": "mymil_adaptive.png",
+            "reshasha": "6434f8e7514ae13b1e2bb55212f1f0ab",
+            "climbresource": "mymil_climb_adaptive.png",
+            "reshashc": "1260fa98b4695055efd254e1b63de2bb",
+            "flipresource": "mymil_flip_adaptive.png",
+            "reshashf": "eeebe5e8ca1093764d881fa3d17856e2",
             "author": "Fluse"
         }
     ]
